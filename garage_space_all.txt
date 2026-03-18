@@ -1109,9 +1109,9 @@ VIN: OFAGA      | BAVARIA-46-WAGON-319D               | Space: NOT FOUND
 
 ************************************************************
 
-LFS Username: xtremesp33d | User ID: 34216 | Total Vehicles: 251
+LFS Username: xtremesp33d | User ID: 34216 | Total Vehicles: 250
 ================================================================================
-Total Garage Space Used: 1674.00m²   | 50m² : 34 | 25m²: 67 | 10m²: 168
+Total Garage Space Used: 1666.00m²   | 50m² : 34 | 25m²: 67 | 10m²: 167
 
 VIN: JIROR      | SCAMA K460                          | Space: 12.0m²
 VIN: RUGEF      | CITY VAN 2500                       | Space: 10.0m²
@@ -1187,7 +1187,6 @@ VIN: KOKAF      | WAYMACH M500                        | Space: 8.0m²
 VIN: NOSUX      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
 VIN: LUHEM      | BD9115                              | Space: 8.0m²
 VIN: NEDAR      | PREFECTURE GT-TURBO                 | Space: 8.0m²
-VIN: MUHOX      | MECA WAGON                          | Space: 8.0m²
 VIN: UYEHE      | MECHO BOROVO                        | Space: 8.0m²
 VIN: AQIDO      | PORCHETE TIGER GTS                  | Space: 8.0m²
 VIN: NODAP      | ARDO 7Q                             | Space: 8.0m²
@@ -1863,9 +1862,9 @@ VIN: HOZOV      | TRUCK66                             | Space: NOT FOUND
 
 ************************************************************
 
-LFS Username: THE WIZARD DK | User ID: 1283 | Total Vehicles: 73
+LFS Username: THE WIZARD DK | User ID: 1283 | Total Vehicles: 74
 ================================================================================
-Total Garage Space Used: 564.00m²   | 50m² : 12 | 25m²: 23 | 10m²: 57
+Total Garage Space Used: 572.00m²   | 50m² : 12 | 25m²: 23 | 10m²: 58
 
 VIN: SEWIV      | KENYAWORTH W900L                    | Space: 20.0m²
 VIN: AQELE      | LCT3000                             | Space: 16.0m²
@@ -1919,6 +1918,7 @@ VIN: MEZED      | COMET 31                            | Space: 8.0m²
 VIN: NENAD      | BARSTOW MUSCLE IV                   | Space: 8.0m²
 VIN: AKEYE      | PONTACH GT                          | Space: 8.0m²
 VIN: FUSIP      | GT-V32 SC                           | Space: 8.0m²
+VIN: JECUR      | SPOTTEDKITTEN COUPE                 | Space: 8.0m²
 VIN: ADCQR      | RACEABOUT                           | Space: 7.0m²
 VIN: ADCQW      | ECO XRG                             | Space: 7.0m²
 VIN: UDEQU      | ECO XRG                             | Space: 7.0m²
