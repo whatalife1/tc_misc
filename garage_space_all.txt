@@ -1,0 +1,2177 @@
+************************************************************
+
+LFS Username: badkapp62 | User ID: 35012 | Total Vehicles: 1091
+================================================================================
+Total Garage Space Used: 1771.00m²   | 50m² : 36 | 25m²: 71 | 10m²: 178
+
+VIN: GAYAS      | SCAMA 311 B ARQUEADO                | Space: 20.0m²
+VIN: GOTIC      | PUSHBACK TUG                        | Space: 20.0m²
+VIN: UWERA      | HEAVY RESCUE TRUCK                  | Space: 16.0m²
+VIN: FASIC      | MUN FIRETRUCK                       | Space: 16.0m²
+VIN: SOWET      | TSV8                                | Space: 12.0m²
+VIN: GETUP      | CAMIDO                              | Space: 10.0m²
+VIN: SEXUS      | GRUZ_1RUNNER                        | Space: 10.0m²
+VIN: GANOY      | FEND 150R                           | Space: 10.0m²
+VIN: IDAMO      | GT-V 2000GTV                        | Space: 10.0m²
+VIN: YUYIY      | FZ50 GTR                            | Space: 9.0m²
+VIN: UZASA      | FZ50 GTR                            | Space: 9.0m²
+VIN: SULAT      | FXO GTR                             | Space: 9.0m²
+VIN: WIWIY      | XR GTR                              | Space: 9.0m²
+VIN: SUFIN      | BMW SAUBER F1.06                    | Space: 9.0m²
+VIN: RAVUY      | FORMULA GROUNDEFFECT                | Space: 9.0m²
+VIN: IMANI      | BIMMY M46 V10                       | Space: 9.0m²
+VIN: ABCDE      | XR GT TURBO                         | Space: 8.0m²
+VIN: ABKBK      | FZ-E                                | Space: 8.0m²
+VIN: ACUNT      | FZ-E                                | Space: 8.0m²
+VIN: ADHVK      | XR GT TURBO                         | Space: 8.0m²
+VIN: OGULU      | VPI-3                               | Space: 8.0m²
+VIN: SONUB      | BUMER 7                             | Space: 8.0m²
+VIN: ECANA      | GT-V34                              | Space: 8.0m²
+VIN: WITEK      | XF COUPE TURBO                      | Space: 8.0m²
+VIN: EWUGA      | ROKU HATCH                          | Space: 8.0m²
+VIN: RIDES      | MEMOLUTION 7                        | Space: 8.0m²
+VIN: TOWED      | VPI-3                               | Space: 8.0m²
+VIN: WECAN      | AHMED 4.0RS                         | Space: 8.0m²
+VIN: OBABE      | BZ30 ROADSTER SPORT                 | Space: 8.0m²
+VIN: OGAYU      | BOLVO 8T 2.0                        | Space: 8.0m²
+VIN: ATENA      | ARTON MASTIN 117                    | Space: 8.0m²
+VIN: MELON      | SEDAN                               | Space: 8.0m²
+VIN: OZUJA      | LAMBARINI                           | Space: 8.0m²
+VIN: IGEQI      | PREFECTURE GT                       | Space: 8.0m²
+VIN: WACAV      | PREFECTURE-XNS                      | Space: 8.0m²
+VIN: MOJUQ      | PORCHETE TIGER GTS                  | Space: 8.0m²
+VIN: AVUCI      | BAVARIA N5                          | Space: 8.0m²
+VIN: KOYIQ      | BAVARIA 46 WAGON 329D               | Space: 8.0m²
+VIN: QUDAC      | BAVARIA N5 BASCO TUNE               | Space: 8.0m²
+VIN: OSEBU      | LAMBARNI SJV                        | Space: 8.0m²
+VIN: DARIG      | ADDA AR-EIGHT V10                   | Space: 8.0m²
+VIN: HINEB      | DADGE VENOM GTS                     | Space: 8.0m²
+VIN: NEHEY      | FZ70 4GTS                           | Space: 8.0m²
+VIN: SAQAQ      | FZ50 GT                             | Space: 8.0m²
+VIN: TIHEK      | ADDA AR-EIGHT V10                   | Space: 8.0m²
+VIN: AYAFE      | ALICE 595                           | Space: 8.0m²
+VIN: GITAY      | DODGO CHARGOR STR                   | Space: 8.0m²
+VIN: EVAZI      | PF FORREAL                          | Space: 8.0m²
+VIN: EREGU      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: EPELU      | FZ70 4GTS                           | Space: 8.0m²
+VIN: AWUFU      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
+VIN: LEVUJ      | LAMOHEHE BALBONI                    | Space: 8.0m²
+VIN: GUWOT      | RABUS 650 S63                       | Space: 8.0m²
+VIN: AXUNA      | ROKU TROENO COUPE                   | Space: 8.0m²
+VIN: GUSAT      | SOON VPI-3                          | Space: 8.0m²
+VIN: QIGEN      | ROKU TROENO COUPE                   | Space: 8.0m²
+VIN: AHEYA      | DORITO FD7                          | Space: 8.0m²
+VIN: NEGER      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: QILUN      | DORITO-FC7 D                        | Space: 8.0m²
+VIN: NIVET      | BAVARIA X82 M                       | Space: 8.0m²
+VIN: OYOQI      | ADDA S83 1.8T                       | Space: 8.0m²
+VIN: FEDIM      | MERSOLES GEL63                      | Space: 8.0m²
+VIN: EYENE      | JPN D30                             | Space: 8.0m²
+VIN: ACPWK      | ECO XRG                             | Space: 7.0m²
+VIN: USATO      | CX WAGON                            | Space: 7.0m²
+VIN: GIYOQ      | VSI-V2000                           | Space: 7.0m²
+VIN: AACTA      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ADFPI      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ADHNT      | XF GTR                              | Space: 6.0m²
+VIN: IKEKI      | LX6                                 | Space: 6.0m²
+VIN: FUVOV      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: QIVUT      | SWIRL SPORT 06                      | Space: 6.0m²
+VIN: EGOVA      | FAIK TOPO                           | Space: 6.0m²
+VIN: EMABO      | ESPRESSO D                          | Space: 6.0m²
+VIN: BATEL      | LOPE ASTA                           | Space: 6.0m²
+VIN: IPUSI      | LODAN 1.5                           | Space: 6.0m²
+VIN: OHOMO      | BOWLING VR6                         | Space: 6.0m²
+VIN: SUZAZ      | DAGAN 1.6                           | Space: 6.0m²
+VIN: IYAZA      | LEMON FANTOMAS                      | Space: 6.0m²
+VIN: KODID      | ADDA A46 2.5TDI OUTTRO              | Space: 6.0m²
+VIN: AMAZU      | FAIK TEMPURA XLS 1.6 EI             | Space: 6.0m²
+VIN: ACHBO      | UF GTR                              | Space: 5.0m²
+VIN: UPUSI      | UF 1000                             | Space: 5.0m²
+VIN: USIBO      | SHARK C                             | Space: 5.0m²
+VIN: OZUXU      | UF 1000                             | Space: 5.0m²
+VIN: SOGAY      | UF 1000                             | Space: 5.0m²
+VIN: IBUMI      | CHORUS ATTENDANZE XT-Z 4R           | Space: 5.0m²
+VIN: EHORU      | NESTOR 3                            | Space: 5.0m²
+VIN: UHOPE      | UF 1000                             | Space: 5.0m²
+VIN: RIGED      | FAIK_499                            | Space: 5.0m²
+VIN: LOGAY      | UF 1000                             | Space: 5.0m²
+VIN: ERAGO      | LEMON DUCKLING                      | Space: 5.0m²
+VIN: TOMUP      | LADRA 1012                          | Space: 5.0m²
+VIN: HUKOQ      | GOLF CART 200E                      | Space: 4.0m²
+VIN: LEXEV      | THR MB500                           | Space: 4.0m²
+VIN: BEGEN      | PEEPEE50                            | Space: 4.0m²
+VIN: IKOQI      | MOVVER 3000S                        | Space: 4.0m²
+VIN: UGADA      | QUAD 400X                           | Space: 3.0m²
+VIN: TIMOY      | MOSQUITO - 150CC                    | Space: 2.0m²
+VIN: UYUVE      | HBIKE V2                            | Space: 2.0m²
+VIN: ULOMO      | VULCAN 998                          | Space: 2.0m²
+VIN: ADUTI      | TI 125 EXECUTIVE                    | Space: 2.0m²
+VIN: UTOTU      | POCKET ROCKET                       | Space: 2.0m²
+VIN: UDERO      | POCKET ROCKET                       | Space: 2.0m²
+VIN: WARAR      | RZT 370                             | Space: 2.0m²
+VIN: IHANU      | REAPER X1                           | Space: 2.0m²
+VIN: KOTIN      | RZM 250                             | Space: 2.0m²
+VIN: ARUNE      | SMISON_B51S                         | Space: 2.0m²
+VIN: MEPUM      | XINLIN 150                          | Space: 2.0m²
+VIN: EMEXE      | BOX CAR 250                         | Space: 2.0m²
+VIN: GASEX      | BOX CAR 250                         | Space: 2.0m²
+VIN: IHUGE      | HORDA CFR450                        | Space: 2.0m²
+VIN: FAKIT      | PADDLEMOSCO                         | Space: 2.0m²
+VIN: IKECA      | YMH125                              | Space: 2.0m²
+VIN: AZOGU      | TSX750                              | Space: 2.0m²
+VIN: ESEXA      | POCKET XR                           | Space: 2.0m²
+VIN: TOFAT      | BOX CAR 250                         | Space: 2.0m²
+VIN: EJEBE      | CHIMERA X1                          | Space: 2.0m²
+VIN: PINIZ      | SZK 400 CLASSIC                     | Space: 2.0m²
+VIN: INEMO      | POCKET UF                           | Space: 2.0m²
+VIN: EVURI      | TI 125 EXECUTIVE                    | Space: 2.0m²
+VIN: QELUS      | K300X                               | Space: 2.0m²
+VIN: WEGUX      | JOKASWAY 250CC                      | Space: 2.0m²
+VIN: ATEYE      | IRIDER                              | Space: 1.0m²
+VIN: GOBOV      | BEECUCLE                            | Space: 1.0m²
+VIN: HUNAC      | BEECUCLE                            | Space: 1.0m²
+VIN: UNALO      | BEECUCLE                            | Space: 1.0m²
+VIN: QAZAY      | BEECUCLE                            | Space: 1.0m²
+VIN: LEDIG      | BEECUCLE                            | Space: 1.0m²
+VIN: FEBIF      | BEECUCLE                            | Space: 1.0m²
+VIN: ILIQU      | BEECUCLE                            | Space: 1.0m²
+VIN: ZIHOM      | BEECUCLE                            | Space: 1.0m²
+VIN: VONUK      | BEECUCLE                            | Space: 1.0m²
+VIN: TOSUS      | BEECUCLE                            | Space: 1.0m²
+VIN: FAMAS      | BEECUCLE                            | Space: 1.0m²
+VIN: IMORE      | BEECUCLE                            | Space: 1.0m²
+VIN: LADIN      | BEECUCLE                            | Space: 1.0m²
+VIN: AGIGA      | BEECUCLE                            | Space: 1.0m²
+VIN: IGEYE      | BEECUCLE                            | Space: 1.0m²
+VIN: LIGUX      | BEECUCLE                            | Space: 1.0m²
+VIN: SEVAK      | BEECUCLE                            | Space: 1.0m²
+VIN: KIMAB      | BEECUCLE                            | Space: 1.0m²
+VIN: IREGI      | BEECUCLE                            | Space: 1.0m²
+VIN: IRAQU      | BEECUCLE                            | Space: 1.0m²
+VIN: QIWUM      | BEECUCLE                            | Space: 1.0m²
+VIN: OXUFA      | GX-BUGGY                            | Space: 1.0m²
+VIN: QOZAG      | BEECUCLE                            | Space: 1.0m²
+VIN: GACOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: LIDAF      | BEECUCLE                            | Space: 1.0m²
+VIN: GOSUR      | BEECUCLE                            | Space: 1.0m²
+VIN: FEROC      | GX-BUGGY                            | Space: 1.0m²
+VIN: TUBAM      | BEECUCLE                            | Space: 1.0m²
+VIN: RIDUB      | BEECUCLE                            | Space: 1.0m²
+VIN: NEXID      | BEECUCLE                            | Space: 1.0m²
+VIN: EBOWA      | BEECUCLE                            | Space: 1.0m²
+VIN: ENIPI      | BEECUCLE                            | Space: 1.0m²
+VIN: DUDED      | BEECUCLE                            | Space: 1.0m²
+VIN: ODUTU      | BEECUCLE                            | Space: 1.0m²
+VIN: ESUPO      | BEECUCLE                            | Space: 1.0m²
+VIN: UNIDU      | BEECUCLE                            | Space: 1.0m²
+VIN: EDIVU      | BEECUCLE                            | Space: 1.0m²
+VIN: OGIVU      | BEECUCLE                            | Space: 1.0m²
+VIN: HEPIV      | BEECUCLE                            | Space: 1.0m²
+VIN: IHIVI      | BEECUCLE                            | Space: 1.0m²
+VIN: JIRAD      | BEECUCLE                            | Space: 1.0m²
+VIN: EWUYA      | BEECUCLE                            | Space: 1.0m²
+VIN: HADOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: EPURA      | BEECUCLE                            | Space: 1.0m²
+VIN: IPACO      | BEECUCLE                            | Space: 1.0m²
+VIN: LIZUX      | BEECUCLE                            | Space: 1.0m²
+VIN: IXABA      | BEECUCLE                            | Space: 1.0m²
+VIN: EMIYU      | BEECUCLE                            | Space: 1.0m²
+VIN: QONIH      | BEECUCLE                            | Space: 1.0m²
+VIN: KIZIY      | BEECUCLE                            | Space: 1.0m²
+VIN: UTAWU      | BEECUCLE                            | Space: 1.0m²
+VIN: POFAW      | BEECUCLE                            | Space: 1.0m²
+VIN: OTORI      | BEECUCLE                            | Space: 1.0m²
+VIN: TAPEZ      | BEECUCLE                            | Space: 1.0m²
+VIN: AGILE      | BEECUCLE                            | Space: 1.0m²
+VIN: RETIP      | BEECUCLE                            | Space: 1.0m²
+VIN: OHUJU      | BEECUCLE                            | Space: 1.0m²
+VIN: GOVEM      | BEECUCLE                            | Space: 1.0m²
+VIN: LIQED      | BEECUCLE                            | Space: 1.0m²
+VIN: IZIKU      | BEECUCLE                            | Space: 1.0m²
+VIN: KAMIW      | BEECUCLE                            | Space: 1.0m²
+VIN: NAFIK      | BEECUCLE                            | Space: 1.0m²
+VIN: EYATO      | BEECUCLE                            | Space: 1.0m²
+VIN: ITOQU      | BEECUCLE                            | Space: 1.0m²
+VIN: IGOXE      | BEECUCLE                            | Space: 1.0m²
+VIN: WOKUK      | BEECUCLE                            | Space: 1.0m²
+VIN: VUBOX      | BEECUCLE                            | Space: 1.0m²
+VIN: DEXEC      | BEECUCLE                            | Space: 1.0m²
+VIN: KUDOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: EJATA      | BEECUCLE                            | Space: 1.0m²
+VIN: URUYE      | BEECUCLE                            | Space: 1.0m²
+VIN: ANUNI      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUXAV      | GX-BUGGY STAGE 2                    | Space: 1.0m²
+VIN: GAJAT      | GX-BUGGY STAGE 2                    | Space: 1.0m²
+VIN: TATEN      | BEECUCLE                            | Space: 1.0m²
+VIN: OLOKA      | BEECUCLE                            | Space: 1.0m²
+VIN: LUJOV      | BEECUCLE                            | Space: 1.0m²
+VIN: DICAX      | BEECUCLE                            | Space: 1.0m²
+VIN: UKINO      | BEECUCLE                            | Space: 1.0m²
+VIN: UFUWO      | BEECUCLE                            | Space: 1.0m²
+VIN: FEBOD      | TREX BIKES                          | Space: 1.0m²
+VIN: UBIKE      | BEECUCLE                            | Space: 1.0m²
+VIN: NAVIN      | BEECUCLE                            | Space: 1.0m²
+VIN: SUREM      | TREX BIKES                          | Space: 1.0m²
+VIN: UBADI      | BEECUCLE                            | Space: 1.0m²
+VIN: ARENA      | IRIDER                              | Space: 1.0m²
+VIN: TIHUS      | BEECUCLE                            | Space: 1.0m²
+VIN: UNEFI      | TREX BIKES                          | Space: 1.0m²
+VIN: ZEGAV      | BEECUCLE                            | Space: 1.0m²
+VIN: MEBUV      | BEECUCLE                            | Space: 1.0m²
+VIN: XEMIC      | BEECUCLE                            | Space: 1.0m²
+VIN: EXABU      | BEECUCLE                            | Space: 1.0m²
+VIN: QODUF      | BEECUCLE                            | Space: 1.0m²
+VIN: OYETU      | BEECUCLE                            | Space: 1.0m²
+VIN: QIFAN      | BEECUCLE                            | Space: 1.0m²
+VIN: YESEV      | BEECUCLE                            | Space: 1.0m²
+VIN: AYINI      | BEECUCLE                            | Space: 1.0m²
+VIN: SEKIG      | BEECUCLE                            | Space: 1.0m²
+VIN: IYIGI      | BEECUCLE                            | Space: 1.0m²
+VIN: HOKED      | BEECUCLE                            | Space: 1.0m²
+VIN: JUSAF      | BEECUCLE                            | Space: 1.0m²
+VIN: IDURO      | BEECUCLE                            | Space: 1.0m²
+VIN: UJENU      | BEECUCLE                            | Space: 1.0m²
+VIN: JUPAR      | BEECUCLE                            | Space: 1.0m²
+VIN: GEDOJ      | BEECUCLE                            | Space: 1.0m²
+VIN: EFOKI      | BEECUCLE                            | Space: 1.0m²
+VIN: IGAVI      | BEECUCLE                            | Space: 1.0m²
+VIN: QEMIK      | BEECUCLE                            | Space: 1.0m²
+VIN: VOMEM      | BEECUCLE                            | Space: 1.0m²
+VIN: OWUNU      | BEECUCLE                            | Space: 1.0m²
+VIN: OHEHO      | BEECUCLE                            | Space: 1.0m²
+VIN: JEQEW      | BEECUCLE                            | Space: 1.0m²
+VIN: IHUHE      | BEECUCLE                            | Space: 1.0m²
+VIN: FODIW      | BEECUCLE                            | Space: 1.0m²
+VIN: IHEQO      | BEECUCLE                            | Space: 1.0m²
+VIN: EZOVO      | BEECUCLE                            | Space: 1.0m²
+VIN: UTEPE      | BEECUCLE                            | Space: 1.0m²
+VIN: PIQEX      | BEECUCLE                            | Space: 1.0m²
+VIN: OGAWI      | BEECUCLE                            | Space: 1.0m²
+VIN: CIWAW      | BEECUCLE                            | Space: 1.0m²
+VIN: DOCAY      | BEECUCLE                            | Space: 1.0m²
+VIN: UMESO      | BEECUCLE                            | Space: 1.0m²
+VIN: ICUFO      | BEECUCLE                            | Space: 1.0m²
+VIN: VICUB      | BEECUCLE                            | Space: 1.0m²
+VIN: IPAYU      | BEECUCLE                            | Space: 1.0m²
+VIN: INAJE      | BEECUCLE                            | Space: 1.0m²
+VIN: BOXOV      | BEECUCLE                            | Space: 1.0m²
+VIN: ZONAZ      | BEECUCLE                            | Space: 1.0m²
+VIN: RAWAW      | BEECUCLE                            | Space: 1.0m²
+VIN: EYOVE      | BEECUCLE                            | Space: 1.0m²
+VIN: UJAXE      | BEECUCLE                            | Space: 1.0m²
+VIN: ILAWE      | BEECUCLE                            | Space: 1.0m²
+VIN: UFEJE      | BEECUCLE                            | Space: 1.0m²
+VIN: IQOZU      | BEECUCLE                            | Space: 1.0m²
+VIN: PUGUK      | BEECUCLE                            | Space: 1.0m²
+VIN: UZUHE      | BEECUCLE                            | Space: 1.0m²
+VIN: EXIXO      | BEECUCLE                            | Space: 1.0m²
+VIN: ENIQE      | BEECUCLE                            | Space: 1.0m²
+VIN: UQUXI      | BEECUCLE                            | Space: 1.0m²
+VIN: IKATE      | BEECUCLE                            | Space: 1.0m²
+VIN: EFUDA      | BEECUCLE                            | Space: 1.0m²
+VIN: UVOHA      | BEECUCLE                            | Space: 1.0m²
+VIN: XOSEX      | BEECUCLE                            | Space: 1.0m²
+VIN: IJEFI      | BEECUCLE                            | Space: 1.0m²
+VIN: HEFOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: DESEW      | BEECUCLE                            | Space: 1.0m²
+VIN: AFUXO      | BEECUCLE                            | Space: 1.0m²
+VIN: IXERI      | BEECUCLE                            | Space: 1.0m²
+VIN: XITOG      | BEECUCLE                            | Space: 1.0m²
+VIN: ANAYU      | BEECUCLE                            | Space: 1.0m²
+VIN: EQUNO      | BEECUCLE                            | Space: 1.0m²
+VIN: XIQOX      | BEECUCLE                            | Space: 1.0m²
+VIN: CUNEJ      | BEECUCLE                            | Space: 1.0m²
+VIN: FAGOY      | BEECUCLE                            | Space: 1.0m²
+VIN: FABUL      | BEECUCLE                            | Space: 1.0m²
+VIN: ZURAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: JOLIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: UXASE      | BEECUCLE                            | Space: 1.0m²
+VIN: NOLIH      | BEECUCLE                            | Space: 1.0m²
+VIN: ITIMI      | BEECUCLE                            | Space: 1.0m²
+VIN: DEYUF      | BEECUCLE                            | Space: 1.0m²
+VIN: YEKUP      | BEECUCLE                            | Space: 1.0m²
+VIN: VOFIL      | BEECUCLE                            | Space: 1.0m²
+VIN: ERUFO      | BEECUCLE                            | Space: 1.0m²
+VIN: ZIFEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: LODIC      | BEECUCLE                            | Space: 1.0m²
+VIN: JEQOC      | BEECUCLE                            | Space: 1.0m²
+VIN: JUVAS      | BEECUCLE                            | Space: 1.0m²
+VIN: BAGUY      | BEECUCLE                            | Space: 1.0m²
+VIN: ROCOB      | BEECUCLE                            | Space: 1.0m²
+VIN: CUNOS      | BEECUCLE                            | Space: 1.0m²
+VIN: EQOMI      | BEECUCLE                            | Space: 1.0m²
+VIN: NOKOM      | BEECUCLE                            | Space: 1.0m²
+VIN: OROSU      | BEECUCLE                            | Space: 1.0m²
+VIN: GUFEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: ODUPU      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAVEB      | BEECUCLE                            | Space: 1.0m²
+VIN: ERAFI      | BEECUCLE                            | Space: 1.0m²
+VIN: JOTEZ      | BEECUCLE                            | Space: 1.0m²
+VIN: DAMEX      | BEECUCLE                            | Space: 1.0m²
+VIN: OHEVE      | BEECUCLE                            | Space: 1.0m²
+VIN: FIKIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: JONUH      | BEECUCLE                            | Space: 1.0m²
+VIN: DUYUY      | BEECUCLE                            | Space: 1.0m²
+VIN: JEGOC      | BEECUCLE                            | Space: 1.0m²
+VIN: BERIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: IKAHE      | BEECUCLE                            | Space: 1.0m²
+VIN: IGORO      | BEECUCLE                            | Space: 1.0m²
+VIN: EVIKU      | BEECUCLE                            | Space: 1.0m²
+VIN: BEWED      | BEECUCLE                            | Space: 1.0m²
+VIN: OJABA      | BEECUCLE                            | Space: 1.0m²
+VIN: CEFIZ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUZEK      | BEECUCLE                            | Space: 1.0m²
+VIN: ECOTA      | BEECUCLE                            | Space: 1.0m²
+VIN: UNOME      | BEECUCLE                            | Space: 1.0m²
+VIN: WEPAC      | BEECUCLE                            | Space: 1.0m²
+VIN: HEWUF      | BEECUCLE                            | Space: 1.0m²
+VIN: OFIFU      | BEECUCLE                            | Space: 1.0m²
+VIN: PEJEM      | BEECUCLE                            | Space: 1.0m²
+VIN: OZEZA      | BEECUCLE                            | Space: 1.0m²
+VIN: TIMAT      | BEECUCLE                            | Space: 1.0m²
+VIN: GELOQ      | BEECUCLE                            | Space: 1.0m²
+VIN: GAXAC      | BEECUCLE                            | Space: 1.0m²
+VIN: UFEFO      | BEECUCLE                            | Space: 1.0m²
+VIN: TIDOC      | BEECUCLE                            | Space: 1.0m²
+VIN: LUVIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: PIWUS      | BEECUCLE                            | Space: 1.0m²
+VIN: KEVUJ      | BEECUCLE                            | Space: 1.0m²
+VIN: OZACI      | BEECUCLE                            | Space: 1.0m²
+VIN: BIJIW      | BEECUCLE                            | Space: 1.0m²
+VIN: PIGID      | BEECUCLE                            | Space: 1.0m²
+VIN: HIRIV      | BEECUCLE                            | Space: 1.0m²
+VIN: IYADU      | BEECUCLE                            | Space: 1.0m²
+VIN: MUVIR      | BEECUCLE                            | Space: 1.0m²
+VIN: OZUPA      | BEECUCLE                            | Space: 1.0m²
+VIN: CACES      | BEECUCLE                            | Space: 1.0m²
+VIN: SOFAX      | BEECUCLE                            | Space: 1.0m²
+VIN: QIVAW      | BEECUCLE                            | Space: 1.0m²
+VIN: UGAWU      | BEECUCLE                            | Space: 1.0m²
+VIN: YIBIC      | BEECUCLE                            | Space: 1.0m²
+VIN: APAFO      | BEECUCLE                            | Space: 1.0m²
+VIN: EXEHI      | BEECUCLE                            | Space: 1.0m²
+VIN: LOVEN      | BEECUCLE                            | Space: 1.0m²
+VIN: GOMED      | BEECUCLE                            | Space: 1.0m²
+VIN: RIKUC      | BEECUCLE                            | Space: 1.0m²
+VIN: TOJEJ      | BEECUCLE                            | Space: 1.0m²
+VIN: TAJOP      | BEECUCLE                            | Space: 1.0m²
+VIN: GUFUV      | BEECUCLE                            | Space: 1.0m²
+VIN: IHEJI      | BEECUCLE                            | Space: 1.0m²
+VIN: FECIN      | BEECUCLE                            | Space: 1.0m²
+VIN: KIPEY      | BEECUCLE                            | Space: 1.0m²
+VIN: CEVOQ      | BEECUCLE                            | Space: 1.0m²
+VIN: HIHUX      | BEECUCLE                            | Space: 1.0m²
+VIN: IPUYU      | BEECUCLE                            | Space: 1.0m²
+VIN: WOJAB      | BEECUCLE                            | Space: 1.0m²
+VIN: NEJAN      | BEECUCLE                            | Space: 1.0m²
+VIN: UBAMI      | BEECUCLE                            | Space: 1.0m²
+VIN: NEHIY      | BEECUCLE                            | Space: 1.0m²
+VIN: UMAKI      | BEECUCLE                            | Space: 1.0m²
+VIN: XOCIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: SUFEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: SUHIF      | BEECUCLE                            | Space: 1.0m²
+VIN: UCUYI      | BEECUCLE                            | Space: 1.0m²
+VIN: SAMON      | BEECUCLE                            | Space: 1.0m²
+VIN: TUBAD      | BEECUCLE                            | Space: 1.0m²
+VIN: SUCEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: TOPOT      | BEECUCLE                            | Space: 1.0m²
+VIN: QEXEB      | BEECUCLE                            | Space: 1.0m²
+VIN: VEZUG      | BEECUCLE                            | Space: 1.0m²
+VIN: IRIWI      | BEECUCLE                            | Space: 1.0m²
+VIN: SIPOB      | BEECUCLE                            | Space: 1.0m²
+VIN: RUHUL      | BEECUCLE                            | Space: 1.0m²
+VIN: EXICE      | BEECUCLE                            | Space: 1.0m²
+VIN: UCILA      | BEECUCLE                            | Space: 1.0m²
+VIN: AGIMI      | BEECUCLE                            | Space: 1.0m²
+VIN: CIRIS      | BEECUCLE                            | Space: 1.0m²
+VIN: UFASE      | BEECUCLE                            | Space: 1.0m²
+VIN: GOSOW      | BEECUCLE                            | Space: 1.0m²
+VIN: ZOTOR      | BEECUCLE                            | Space: 1.0m²
+VIN: IYAVA      | BEECUCLE                            | Space: 1.0m²
+VIN: UWOQU      | BEECUCLE                            | Space: 1.0m²
+VIN: OZUCE      | BEECUCLE                            | Space: 1.0m²
+VIN: VUCEK      | BEECUCLE                            | Space: 1.0m²
+VIN: COCAD      | BEECUCLE                            | Space: 1.0m²
+VIN: BOQES      | BEECUCLE                            | Space: 1.0m²
+VIN: HALAN      | BEECUCLE                            | Space: 1.0m²
+VIN: OCIYA      | BEECUCLE                            | Space: 1.0m²
+VIN: VAJUR      | BEECUCLE                            | Space: 1.0m²
+VIN: SEVAY      | BEECUCLE                            | Space: 1.0m²
+VIN: JOFAM      | BEECUCLE                            | Space: 1.0m²
+VIN: SUXIC      | BEECUCLE                            | Space: 1.0m²
+VIN: GIHEW      | BEECUCLE                            | Space: 1.0m²
+VIN: TOYEF      | BEECUCLE                            | Space: 1.0m²
+VIN: COZEK      | BEECUCLE                            | Space: 1.0m²
+VIN: LEKIS      | BEECUCLE                            | Space: 1.0m²
+VIN: IDANA      | BEECUCLE                            | Space: 1.0m²
+VIN: OXEGE      | BEECUCLE                            | Space: 1.0m²
+VIN: OCOYU      | BEECUCLE                            | Space: 1.0m²
+VIN: TAROY      | BEECUCLE                            | Space: 1.0m²
+VIN: ASAWE      | BEECUCLE                            | Space: 1.0m²
+VIN: AZAFA      | BEECUCLE                            | Space: 1.0m²
+VIN: BEMIX      | BEECUCLE                            | Space: 1.0m²
+VIN: ATUXA      | BEECUCLE                            | Space: 1.0m²
+VIN: TEJEP      | BEECUCLE                            | Space: 1.0m²
+VIN: SEXEP      | BEECUCLE                            | Space: 1.0m²
+VIN: CIMID      | BEECUCLE                            | Space: 1.0m²
+VIN: SAMIY      | BEECUCLE                            | Space: 1.0m²
+VIN: TISOD      | BEECUCLE                            | Space: 1.0m²
+VIN: KEQOL      | BEECUCLE                            | Space: 1.0m²
+VIN: CEDAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: EFIZO      | BEECUCLE                            | Space: 1.0m²
+VIN: OLILO      | BEECUCLE                            | Space: 1.0m²
+VIN: OCISA      | BEECUCLE                            | Space: 1.0m²
+VIN: SIYEH      | BEECUCLE                            | Space: 1.0m²
+VIN: OCOWO      | BEECUCLE                            | Space: 1.0m²
+VIN: OGOYA      | BEECUCLE                            | Space: 1.0m²
+VIN: GAKUK      | BEECUCLE                            | Space: 1.0m²
+VIN: KAHIV      | BEECUCLE                            | Space: 1.0m²
+VIN: XOREB      | BEECUCLE                            | Space: 1.0m²
+VIN: UWIZI      | BEECUCLE                            | Space: 1.0m²
+VIN: ULUFU      | BEECUCLE                            | Space: 1.0m²
+VIN: MOYOV      | BEECUCLE                            | Space: 1.0m²
+VIN: VUNEH      | BEECUCLE                            | Space: 1.0m²
+VIN: EBIGO      | BEECUCLE                            | Space: 1.0m²
+VIN: YUGAB      | BEECUCLE                            | Space: 1.0m²
+VIN: TAREP      | BEECUCLE                            | Space: 1.0m²
+VIN: DULOQ      | BEECUCLE                            | Space: 1.0m²
+VIN: WOFAP      | BEECUCLE                            | Space: 1.0m²
+VIN: UNOFU      | BEECUCLE                            | Space: 1.0m²
+VIN: BEBUQ      | BEECUCLE                            | Space: 1.0m²
+VIN: CEMEK      | BEECUCLE                            | Space: 1.0m²
+VIN: BAKIX      | BEECUCLE                            | Space: 1.0m²
+VIN: GOHAF      | BEECUCLE                            | Space: 1.0m²
+VIN: DOYUM      | BEECUCLE                            | Space: 1.0m²
+VIN: DIYIF      | BEECUCLE                            | Space: 1.0m²
+VIN: DEHOT      | BEECUCLE                            | Space: 1.0m²
+VIN: FARIB      | BEECUCLE                            | Space: 1.0m²
+VIN: QECOX      | BEECUCLE                            | Space: 1.0m²
+VIN: EFEQE      | BEECUCLE                            | Space: 1.0m²
+VIN: ECAZA      | BEECUCLE                            | Space: 1.0m²
+VIN: VUGAY      | BEECUCLE                            | Space: 1.0m²
+VIN: ECISI      | BEECUCLE                            | Space: 1.0m²
+VIN: BACOY      | BEECUCLE                            | Space: 1.0m²
+VIN: AGAWO      | BEECUCLE                            | Space: 1.0m²
+VIN: SUDEM      | BEECUCLE                            | Space: 1.0m²
+VIN: AZOME      | BEECUCLE                            | Space: 1.0m²
+VIN: OTANO      | BEECUCLE                            | Space: 1.0m²
+VIN: RATIR      | BEECUCLE                            | Space: 1.0m²
+VIN: GELOW      | BEECUCLE                            | Space: 1.0m²
+VIN: AQAFU      | BEECUCLE                            | Space: 1.0m²
+VIN: URUXO      | BEECUCLE                            | Space: 1.0m²
+VIN: UDAHI      | BEECUCLE                            | Space: 1.0m²
+VIN: OGIKA      | BEECUCLE                            | Space: 1.0m²
+VIN: DAPON      | BEECUCLE                            | Space: 1.0m²
+VIN: JUBEK      | BEECUCLE                            | Space: 1.0m²
+VIN: JIVET      | BEECUCLE                            | Space: 1.0m²
+VIN: OZAJE      | BEECUCLE                            | Space: 1.0m²
+VIN: WEWOV      | BEECUCLE                            | Space: 1.0m²
+VIN: GAPAW      | BEECUCLE                            | Space: 1.0m²
+VIN: XOGUT      | BEECUCLE                            | Space: 1.0m²
+VIN: EMUFI      | BEECUCLE                            | Space: 1.0m²
+VIN: IFEZA      | BEECUCLE                            | Space: 1.0m²
+VIN: AROHE      | BEECUCLE                            | Space: 1.0m²
+VIN: BERIZ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZASED      | BEECUCLE                            | Space: 1.0m²
+VIN: DOGAC      | BEECUCLE                            | Space: 1.0m²
+VIN: ADOKU      | BEECUCLE                            | Space: 1.0m²
+VIN: ILIPA      | BEECUCLE                            | Space: 1.0m²
+VIN: PIYOP      | BEECUCLE                            | Space: 1.0m²
+VIN: RAYAM      | BEECUCLE                            | Space: 1.0m²
+VIN: EREDI      | BEECUCLE                            | Space: 1.0m²
+VIN: YUYOK      | BEECUCLE                            | Space: 1.0m²
+VIN: BUMIK      | BEECUCLE                            | Space: 1.0m²
+VIN: FIMIV      | BEECUCLE                            | Space: 1.0m²
+VIN: SOYOX      | BEECUCLE                            | Space: 1.0m²
+VIN: CEXIL      | BEECUCLE                            | Space: 1.0m²
+VIN: KEQAZ      | BEECUCLE                            | Space: 1.0m²
+VIN: IVOXU      | BEECUCLE                            | Space: 1.0m²
+VIN: AROGO      | BEECUCLE                            | Space: 1.0m²
+VIN: MEVUS      | BEECUCLE                            | Space: 1.0m²
+VIN: LESUC      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUCAH      | BEECUCLE                            | Space: 1.0m²
+VIN: SONOX      | BEECUCLE                            | Space: 1.0m²
+VIN: YIKOR      | BEECUCLE                            | Space: 1.0m²
+VIN: ANOWE      | BEECUCLE                            | Space: 1.0m²
+VIN: ORECA      | BEECUCLE                            | Space: 1.0m²
+VIN: FODOK      | BEECUCLE                            | Space: 1.0m²
+VIN: JOXUR      | BEECUCLE                            | Space: 1.0m²
+VIN: IKAZI      | BEECUCLE                            | Space: 1.0m²
+VIN: CEBIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: FAWAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: VERIN      | BEECUCLE                            | Space: 1.0m²
+VIN: HIDEP      | BEECUCLE                            | Space: 1.0m²
+VIN: IPAFA      | BEECUCLE                            | Space: 1.0m²
+VIN: PUCUG      | BEECUCLE                            | Space: 1.0m²
+VIN: ONIZE      | BEECUCLE                            | Space: 1.0m²
+VIN: MEMUT      | BEECUCLE                            | Space: 1.0m²
+VIN: OMUGU      | BEECUCLE                            | Space: 1.0m²
+VIN: EPALI      | BEECUCLE                            | Space: 1.0m²
+VIN: AQAYE      | BEECUCLE                            | Space: 1.0m²
+VIN: PEGUZ      | BEECUCLE                            | Space: 1.0m²
+VIN: MOWEX      | BEECUCLE                            | Space: 1.0m²
+VIN: ROSOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: IVANI      | BEECUCLE                            | Space: 1.0m²
+VIN: YEKAB      | BEECUCLE                            | Space: 1.0m²
+VIN: NUFEZ      | BEECUCLE                            | Space: 1.0m²
+VIN: XOGUD      | BEECUCLE                            | Space: 1.0m²
+VIN: NUJUR      | BEECUCLE                            | Space: 1.0m²
+VIN: FISAY      | BEECUCLE                            | Space: 1.0m²
+VIN: MOHEF      | BEECUCLE                            | Space: 1.0m²
+VIN: QIPAM      | BEECUCLE                            | Space: 1.0m²
+VIN: EGIYO      | BEECUCLE                            | Space: 1.0m²
+VIN: INUSA      | BEECUCLE                            | Space: 1.0m²
+VIN: ISESO      | BEECUCLE                            | Space: 1.0m²
+VIN: OYIWI      | BEECUCLE                            | Space: 1.0m²
+VIN: OCEYU      | BEECUCLE                            | Space: 1.0m²
+VIN: UPAPO      | BEECUCLE                            | Space: 1.0m²
+VIN: JUBIP      | BEECUCLE                            | Space: 1.0m²
+VIN: NUSIB      | BEECUCLE                            | Space: 1.0m²
+VIN: GANEK      | BEECUCLE                            | Space: 1.0m²
+VIN: UGAHA      | BEECUCLE                            | Space: 1.0m²
+VIN: HEKAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: LEKIC      | BEECUCLE                            | Space: 1.0m²
+VIN: LOYAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: INIHE      | BEECUCLE                            | Space: 1.0m²
+VIN: TIMUC      | BEECUCLE                            | Space: 1.0m²
+VIN: EBEQU      | BEECUCLE                            | Space: 1.0m²
+VIN: EFUCO      | BEECUCLE                            | Space: 1.0m²
+VIN: WELAP      | BEECUCLE                            | Space: 1.0m²
+VIN: DAXIV      | BEECUCLE                            | Space: 1.0m²
+VIN: AXEPU      | BEECUCLE                            | Space: 1.0m²
+VIN: KOBIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: IGOBA      | BEECUCLE                            | Space: 1.0m²
+VIN: EDICI      | BEECUCLE                            | Space: 1.0m²
+VIN: EHUSU      | BEECUCLE                            | Space: 1.0m²
+VIN: VOPEK      | BEECUCLE                            | Space: 1.0m²
+VIN: SIZUG      | BEECUCLE                            | Space: 1.0m²
+VIN: OZELI      | BEECUCLE                            | Space: 1.0m²
+VIN: EXIDI      | BEECUCLE                            | Space: 1.0m²
+VIN: PUJAJ      | BEECUCLE                            | Space: 1.0m²
+VIN: COZAW      | BEECUCLE                            | Space: 1.0m²
+VIN: AVALO      | BEECUCLE                            | Space: 1.0m²
+VIN: KALEB      | BEECUCLE                            | Space: 1.0m²
+VIN: PIBEZ      | BEECUCLE                            | Space: 1.0m²
+VIN: QUJUV      | BEECUCLE                            | Space: 1.0m²
+VIN: ANORE      | BEECUCLE                            | Space: 1.0m²
+VIN: VEYUG      | BEECUCLE                            | Space: 1.0m²
+VIN: UCOBE      | BEECUCLE                            | Space: 1.0m²
+VIN: LIRAP      | BEECUCLE                            | Space: 1.0m²
+VIN: JIXOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: IDODA      | BEECUCLE                            | Space: 1.0m²
+VIN: GABUD      | BEECUCLE                            | Space: 1.0m²
+VIN: SISOL      | BEECUCLE                            | Space: 1.0m²
+VIN: DAGAN      | BEECUCLE                            | Space: 1.0m²
+VIN: VUQEV      | BEECUCLE                            | Space: 1.0m²
+VIN: KUSOQ      | BEECUCLE                            | Space: 1.0m²
+VIN: IPAVU      | BEECUCLE                            | Space: 1.0m²
+VIN: OQISO      | BEECUCLE                            | Space: 1.0m²
+VIN: ETAWU      | BEECUCLE                            | Space: 1.0m²
+VIN: GUHAZ      | BEECUCLE                            | Space: 1.0m²
+VIN: MANUZ      | BEECUCLE                            | Space: 1.0m²
+VIN: DIVUK      | BEECUCLE                            | Space: 1.0m²
+VIN: JOBAP      | BEECUCLE                            | Space: 1.0m²
+VIN: YUKUG      | BEECUCLE                            | Space: 1.0m²
+VIN: GAMUC      | BEECUCLE                            | Space: 1.0m²
+VIN: QILUH      | BEECUCLE                            | Space: 1.0m²
+VIN: JOHOB      | BEECUCLE                            | Space: 1.0m²
+VIN: GIZIV      | BEECUCLE                            | Space: 1.0m²
+VIN: PEYEX      | BEECUCLE                            | Space: 1.0m²
+VIN: OBINA      | BEECUCLE                            | Space: 1.0m²
+VIN: ONAVU      | BEECUCLE                            | Space: 1.0m²
+VIN: KOWAT      | BEECUCLE                            | Space: 1.0m²
+VIN: DOWIG      | BEECUCLE                            | Space: 1.0m²
+VIN: IWOGI      | BEECUCLE                            | Space: 1.0m²
+VIN: KAHIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZULUP      | BEECUCLE                            | Space: 1.0m²
+VIN: UKUQI      | BEECUCLE                            | Space: 1.0m²
+VIN: UVAVO      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUBIP      | BEECUCLE                            | Space: 1.0m²
+VIN: OVODI      | BEECUCLE                            | Space: 1.0m²
+VIN: BICOS      | BEECUCLE                            | Space: 1.0m²
+VIN: UHOPU      | BEECUCLE                            | Space: 1.0m²
+VIN: RUJAN      | BEECUCLE                            | Space: 1.0m²
+VIN: UZEGA      | BEECUCLE                            | Space: 1.0m²
+VIN: ARIFI      | BEECUCLE                            | Space: 1.0m²
+VIN: JOVUM      | BEECUCLE                            | Space: 1.0m²
+VIN: POQIT      | BEECUCLE                            | Space: 1.0m²
+VIN: EZUCI      | BEECUCLE                            | Space: 1.0m²
+VIN: UCUKO      | BEECUCLE                            | Space: 1.0m²
+VIN: OGUCA      | BEECUCLE                            | Space: 1.0m²
+VIN: QAJUJ      | BEECUCLE                            | Space: 1.0m²
+VIN: TEXER      | BEECUCLE                            | Space: 1.0m²
+VIN: OFAKU      | BEECUCLE                            | Space: 1.0m²
+VIN: SIFAB      | BEECUCLE                            | Space: 1.0m²
+VIN: POREM      | BEECUCLE                            | Space: 1.0m²
+VIN: GACOT      | BEECUCLE                            | Space: 1.0m²
+VIN: JOBOL      | BEECUCLE                            | Space: 1.0m²
+VIN: OCEHU      | BEECUCLE                            | Space: 1.0m²
+VIN: FUPOS      | BEECUCLE                            | Space: 1.0m²
+VIN: ILASI      | BEECUCLE                            | Space: 1.0m²
+VIN: EXERE      | BEECUCLE                            | Space: 1.0m²
+VIN: UXAKE      | BEECUCLE                            | Space: 1.0m²
+VIN: IRUCI      | BEECUCLE                            | Space: 1.0m²
+VIN: OYOZA      | BEECUCLE                            | Space: 1.0m²
+VIN: FOFOP      | BEECUCLE                            | Space: 1.0m²
+VIN: UHUHE      | BEECUCLE                            | Space: 1.0m²
+VIN: OGABE      | BEECUCLE                            | Space: 1.0m²
+VIN: VIVAH      | BEECUCLE                            | Space: 1.0m²
+VIN: OSEXO      | BEECUCLE                            | Space: 1.0m²
+VIN: OYERE      | BEECUCLE                            | Space: 1.0m²
+VIN: ROZEV      | BEECUCLE                            | Space: 1.0m²
+VIN: IZOSU      | BEECUCLE                            | Space: 1.0m²
+VIN: AKEWO      | BEECUCLE                            | Space: 1.0m²
+VIN: YAKED      | BEECUCLE                            | Space: 1.0m²
+VIN: YOGEL      | BEECUCLE                            | Space: 1.0m²
+VIN: GELES      | BEECUCLE                            | Space: 1.0m²
+VIN: DUZEB      | BEECUCLE                            | Space: 1.0m²
+VIN: INALO      | BEECUCLE                            | Space: 1.0m²
+VIN: UKIGE      | BEECUCLE                            | Space: 1.0m²
+VIN: INUYA      | BEECUCLE                            | Space: 1.0m²
+VIN: VEDON      | BEECUCLE                            | Space: 1.0m²
+VIN: VAHOV      | BEECUCLE                            | Space: 1.0m²
+VIN: UHIQI      | BEECUCLE                            | Space: 1.0m²
+VIN: URINE      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAQEW      | BEECUCLE                            | Space: 1.0m²
+VIN: UNONI      | BEECUCLE                            | Space: 1.0m²
+VIN: EROSI      | BEECUCLE                            | Space: 1.0m²
+VIN: GEDAY      | BEECUCLE                            | Space: 1.0m²
+VIN: AXIDO      | BEECUCLE                            | Space: 1.0m²
+VIN: AWANI      | BEECUCLE                            | Space: 1.0m²
+VIN: WOVOS      | BEECUCLE                            | Space: 1.0m²
+VIN: NOYEZ      | BEECUCLE                            | Space: 1.0m²
+VIN: MIGAC      | BEECUCLE                            | Space: 1.0m²
+VIN: IPUQA      | BEECUCLE                            | Space: 1.0m²
+VIN: ASOYE      | BEECUCLE                            | Space: 1.0m²
+VIN: BADOM      | BEECUCLE                            | Space: 1.0m²
+VIN: ZOZED      | BEECUCLE                            | Space: 1.0m²
+VIN: JISAB      | BEECUCLE                            | Space: 1.0m²
+VIN: OGAWO      | BEECUCLE                            | Space: 1.0m²
+VIN: MUGOL      | BEECUCLE                            | Space: 1.0m²
+VIN: QUNAM      | BEECUCLE                            | Space: 1.0m²
+VIN: SUGAR      | BEECUCLE                            | Space: 1.0m²
+VIN: OWEJE      | BEECUCLE                            | Space: 1.0m²
+VIN: POXUJ      | BEECUCLE                            | Space: 1.0m²
+VIN: OSUJO      | BEECUCLE                            | Space: 1.0m²
+VIN: APUNU      | BEECUCLE                            | Space: 1.0m²
+VIN: DERAK      | BEECUCLE                            | Space: 1.0m²
+VIN: FABAW      | BEECUCLE                            | Space: 1.0m²
+VIN: EYENA      | BEECUCLE                            | Space: 1.0m²
+VIN: JEZIS      | BEECUCLE                            | Space: 1.0m²
+VIN: ZEREX      | BEECUCLE                            | Space: 1.0m²
+VIN: DORIM      | BEECUCLE                            | Space: 1.0m²
+VIN: HUPEL      | BEECUCLE                            | Space: 1.0m²
+VIN: IVANO      | BEECUCLE                            | Space: 1.0m²
+VIN: BAYAW      | BEECUCLE                            | Space: 1.0m²
+VIN: ROZAG      | BEECUCLE                            | Space: 1.0m²
+VIN: UJUCE      | BEECUCLE                            | Space: 1.0m²
+VIN: POBED      | BEECUCLE                            | Space: 1.0m²
+VIN: OHEVI      | BEECUCLE                            | Space: 1.0m²
+VIN: KEJUB      | BEECUCLE                            | Space: 1.0m²
+VIN: OPAKA      | BEECUCLE                            | Space: 1.0m²
+VIN: OHIWU      | BEECUCLE                            | Space: 1.0m²
+VIN: HISAD      | BEECUCLE                            | Space: 1.0m²
+VIN: IVENI      | BEECUCLE                            | Space: 1.0m²
+VIN: ITAGE      | BEECUCLE                            | Space: 1.0m²
+VIN: BEXUL      | BEECUCLE                            | Space: 1.0m²
+VIN: VEXAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: OZOVE      | BEECUCLE                            | Space: 1.0m²
+VIN: SABUL      | BEECUCLE                            | Space: 1.0m²
+VIN: AHAPO      | BEECUCLE                            | Space: 1.0m²
+VIN: YIFOF      | BEECUCLE                            | Space: 1.0m²
+VIN: EJIZU      | BEECUCLE                            | Space: 1.0m²
+VIN: ESEVO      | BEECUCLE                            | Space: 1.0m²
+VIN: PONEW      | BEECUCLE                            | Space: 1.0m²
+VIN: IXEBI      | BEECUCLE                            | Space: 1.0m²
+VIN: AFAMO      | BEECUCLE                            | Space: 1.0m²
+VIN: MOZUN      | BEECUCLE                            | Space: 1.0m²
+VIN: ANULA      | BEECUCLE                            | Space: 1.0m²
+VIN: KIZOS      | BEECUCLE                            | Space: 1.0m²
+VIN: FIYEW      | BEECUCLE                            | Space: 1.0m²
+VIN: BENUV      | BEECUCLE                            | Space: 1.0m²
+VIN: MUNEK      | BEECUCLE                            | Space: 1.0m²
+VIN: OVAZE      | BEECUCLE                            | Space: 1.0m²
+VIN: IHEGI      | BEECUCLE                            | Space: 1.0m²
+VIN: XOTUZ      | BEECUCLE                            | Space: 1.0m²
+VIN: OBAHI      | BEECUCLE                            | Space: 1.0m²
+VIN: TIYEH      | BEECUCLE                            | Space: 1.0m²
+VIN: ELAGI      | BEECUCLE                            | Space: 1.0m²
+VIN: HOXUC      | BEECUCLE                            | Space: 1.0m²
+VIN: HAXAT      | BEECUCLE                            | Space: 1.0m²
+VIN: IBAVU      | BEECUCLE                            | Space: 1.0m²
+VIN: EJERU      | BEECUCLE                            | Space: 1.0m²
+VIN: JOJAP      | BEECUCLE                            | Space: 1.0m²
+VIN: NOKES      | BEECUCLE                            | Space: 1.0m²
+VIN: UPEGE      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUTAR      | BEECUCLE                            | Space: 1.0m²
+VIN: IJUME      | BEECUCLE                            | Space: 1.0m²
+VIN: GARAW      | BEECUCLE                            | Space: 1.0m²
+VIN: UXUTO      | BEECUCLE                            | Space: 1.0m²
+VIN: RAWOQ      | BEECUCLE                            | Space: 1.0m²
+VIN: BEHAB      | BEECUCLE                            | Space: 1.0m²
+VIN: EGAXA      | BEECUCLE                            | Space: 1.0m²
+VIN: ZOHOR      | BEECUCLE                            | Space: 1.0m²
+VIN: ARAQI      | BEECUCLE                            | Space: 1.0m²
+VIN: XOSOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: HEPOX      | BEECUCLE                            | Space: 1.0m²
+VIN: IXEJI      | BEECUCLE                            | Space: 1.0m²
+VIN: ESUTU      | BEECUCLE                            | Space: 1.0m²
+VIN: ELOSU      | BEECUCLE                            | Space: 1.0m²
+VIN: COBEV      | BEECUCLE                            | Space: 1.0m²
+VIN: YEGOP      | BEECUCLE                            | Space: 1.0m²
+VIN: EKUGI      | BEECUCLE                            | Space: 1.0m²
+VIN: CUKOC      | BEECUCLE                            | Space: 1.0m²
+VIN: UJONE      | BEECUCLE                            | Space: 1.0m²
+VIN: MAPUF      | BEECUCLE                            | Space: 1.0m²
+VIN: UPOWA      | BEECUCLE                            | Space: 1.0m²
+VIN: DOTUZ      | BEECUCLE                            | Space: 1.0m²
+VIN: EXUXU      | BEECUCLE                            | Space: 1.0m²
+VIN: IJAQI      | BEECUCLE                            | Space: 1.0m²
+VIN: YOLAK      | BEECUCLE                            | Space: 1.0m²
+VIN: OSIXI      | BEECUCLE                            | Space: 1.0m²
+VIN: FUXAH      | BEECUCLE                            | Space: 1.0m²
+VIN: ZALAV      | BEECUCLE                            | Space: 1.0m²
+VIN: QUTUH      | BEECUCLE                            | Space: 1.0m²
+VIN: UMEZU      | BEECUCLE                            | Space: 1.0m²
+VIN: USIPO      | BEECUCLE                            | Space: 1.0m²
+VIN: UQUQO      | BEECUCLE                            | Space: 1.0m²
+VIN: OJEPI      | BEECUCLE                            | Space: 1.0m²
+VIN: EFEDE      | BEECUCLE                            | Space: 1.0m²
+VIN: QAPEW      | BEECUCLE                            | Space: 1.0m²
+VIN: IFOLU      | BEECUCLE                            | Space: 1.0m²
+VIN: UGESE      | BEECUCLE                            | Space: 1.0m²
+VIN: OJETE      | BEECUCLE                            | Space: 1.0m²
+VIN: BOZOM      | BEECUCLE                            | Space: 1.0m²
+VIN: RAYUR      | BEECUCLE                            | Space: 1.0m²
+VIN: ULOGE      | BEECUCLE                            | Space: 1.0m²
+VIN: JOCOH      | BEECUCLE                            | Space: 1.0m²
+VIN: TAWAP      | BEECUCLE                            | Space: 1.0m²
+VIN: GARUS      | BEECUCLE                            | Space: 1.0m²
+VIN: UFUJU      | BEECUCLE                            | Space: 1.0m²
+VIN: OKOZU      | BEECUCLE                            | Space: 1.0m²
+VIN: OHEYU      | BEECUCLE                            | Space: 1.0m²
+VIN: IWURA      | BEECUCLE                            | Space: 1.0m²
+VIN: EFUFO      | BEECUCLE                            | Space: 1.0m²
+VIN: EXOLE      | BEECUCLE                            | Space: 1.0m²
+VIN: DATEJ      | BEECUCLE                            | Space: 1.0m²
+VIN: OPEXI      | BEECUCLE                            | Space: 1.0m²
+VIN: NAQOW      | BEECUCLE                            | Space: 1.0m²
+VIN: UXEDE      | BEECUCLE                            | Space: 1.0m²
+VIN: POJEG      | BEECUCLE                            | Space: 1.0m²
+VIN: LIMIC      | BEECUCLE                            | Space: 1.0m²
+VIN: EJACI      | BEECUCLE                            | Space: 1.0m²
+VIN: EJIRI      | BEECUCLE                            | Space: 1.0m²
+VIN: NOCEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: VUNAS      | BEECUCLE                            | Space: 1.0m²
+VIN: WUVEV      | BEECUCLE                            | Space: 1.0m²
+VIN: JEXUY      | BEECUCLE                            | Space: 1.0m²
+VIN: EDUCA      | BEECUCLE                            | Space: 1.0m²
+VIN: ZARUL      | BEECUCLE                            | Space: 1.0m²
+VIN: OPAXO      | BEECUCLE                            | Space: 1.0m²
+VIN: HUSOH      | BEECUCLE                            | Space: 1.0m²
+VIN: KASIM      | BEECUCLE                            | Space: 1.0m²
+VIN: USOZO      | BEECUCLE                            | Space: 1.0m²
+VIN: OVAJA      | BEECUCLE                            | Space: 1.0m²
+VIN: INADE      | BEECUCLE                            | Space: 1.0m²
+VIN: COGOD      | BEECUCLE                            | Space: 1.0m²
+VIN: WOXOJ      | BEECUCLE                            | Space: 1.0m²
+VIN: ROXEP      | BEECUCLE                            | Space: 1.0m²
+VIN: DUCIR      | BEECUCLE                            | Space: 1.0m²
+VIN: ICOLI      | BEECUCLE                            | Space: 1.0m²
+VIN: IWERO      | BEECUCLE                            | Space: 1.0m²
+VIN: OBEJI      | BEECUCLE                            | Space: 1.0m²
+VIN: EXEVI      | BEECUCLE                            | Space: 1.0m²
+VIN: UMUJE      | BEECUCLE                            | Space: 1.0m²
+VIN: IQORE      | BEECUCLE                            | Space: 1.0m²
+VIN: EWULI      | BEECUCLE                            | Space: 1.0m²
+VIN: HENOK      | BEECUCLE                            | Space: 1.0m²
+VIN: ASACU      | BEECUCLE                            | Space: 1.0m²
+VIN: QUQOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: AVOFO      | BEECUCLE                            | Space: 1.0m²
+VIN: UNEBO      | BEECUCLE                            | Space: 1.0m²
+VIN: OZUWA      | BEECUCLE                            | Space: 1.0m²
+VIN: UCOFU      | BEECUCLE                            | Space: 1.0m²
+VIN: LUWIT      | BEECUCLE                            | Space: 1.0m²
+VIN: QAYAF      | BEECUCLE                            | Space: 1.0m²
+VIN: QAPOL      | BEECUCLE                            | Space: 1.0m²
+VIN: ADUBU      | BEECUCLE                            | Space: 1.0m²
+VIN: IFALA      | BEECUCLE                            | Space: 1.0m²
+VIN: ALUYU      | BEECUCLE                            | Space: 1.0m²
+VIN: POGEV      | BEECUCLE                            | Space: 1.0m²
+VIN: IQARO      | BEECUCLE                            | Space: 1.0m²
+VIN: XEVOM      | BEECUCLE                            | Space: 1.0m²
+VIN: DOBAD      | BEECUCLE                            | Space: 1.0m²
+VIN: ULOZI      | BEECUCLE                            | Space: 1.0m²
+VIN: OCUPO      | BEECUCLE                            | Space: 1.0m²
+VIN: LORUV      | BEECUCLE                            | Space: 1.0m²
+VIN: NIGIS      | BEECUCLE                            | Space: 1.0m²
+VIN: SEHEX      | BEECUCLE                            | Space: 1.0m²
+VIN: MUMOF      | BEECUCLE                            | Space: 1.0m²
+VIN: POJIM      | BEECUCLE                            | Space: 1.0m²
+VIN: LECUV      | BEECUCLE                            | Space: 1.0m²
+VIN: IRASI      | BEECUCLE                            | Space: 1.0m²
+VIN: YEDIG      | BEECUCLE                            | Space: 1.0m²
+VIN: FEMOF      | BEECUCLE                            | Space: 1.0m²
+VIN: EQULE      | BEECUCLE                            | Space: 1.0m²
+VIN: OLAGU      | BEECUCLE                            | Space: 1.0m²
+VIN: YESID      | BEECUCLE                            | Space: 1.0m²
+VIN: NUGEB      | BEECUCLE                            | Space: 1.0m²
+VIN: SOJUM      | BEECUCLE                            | Space: 1.0m²
+VIN: QAROY      | BEECUCLE                            | Space: 1.0m²
+VIN: OPOSI      | BEECUCLE                            | Space: 1.0m²
+VIN: ECIVO      | BEECUCLE                            | Space: 1.0m²
+VIN: QODAD      | BEECUCLE                            | Space: 1.0m²
+VIN: UDEJU      | BEECUCLE                            | Space: 1.0m²
+VIN: URILU      | BEECUCLE                            | Space: 1.0m²
+VIN: KINIW      | BEECUCLE                            | Space: 1.0m²
+VIN: IHEXI      | BEECUCLE                            | Space: 1.0m²
+VIN: ISEJA      | BEECUCLE                            | Space: 1.0m²
+VIN: IMEYU      | BEECUCLE                            | Space: 1.0m²
+VIN: ZESOV      | BEECUCLE                            | Space: 1.0m²
+VIN: QAZEC      | BEECUCLE                            | Space: 1.0m²
+VIN: IFUGA      | BEECUCLE                            | Space: 1.0m²
+VIN: VEWAN      | BEECUCLE                            | Space: 1.0m²
+VIN: UZAXE      | BEECUCLE                            | Space: 1.0m²
+VIN: DAROY      | BEECUCLE                            | Space: 1.0m²
+VIN: LAJIL      | BEECUCLE                            | Space: 1.0m²
+VIN: NICUB      | BEECUCLE                            | Space: 1.0m²
+VIN: CUHEV      | BEECUCLE                            | Space: 1.0m²
+VIN: IQAKU      | BEECUCLE                            | Space: 1.0m²
+VIN: OGAXE      | BEECUCLE                            | Space: 1.0m²
+VIN: KICOL      | BEECUCLE                            | Space: 1.0m²
+VIN: ARIMI      | BEECUCLE                            | Space: 1.0m²
+VIN: MIBAK      | BEECUCLE                            | Space: 1.0m²
+VIN: OTOFE      | BEECUCLE                            | Space: 1.0m²
+VIN: MASEH      | BEECUCLE                            | Space: 1.0m²
+VIN: AVOCE      | BEECUCLE                            | Space: 1.0m²
+VIN: HIFUR      | BEECUCLE                            | Space: 1.0m²
+VIN: IDOHO      | BEECUCLE                            | Space: 1.0m²
+VIN: KIKUR      | BEECUCLE                            | Space: 1.0m²
+VIN: VEFUB      | BEECUCLE                            | Space: 1.0m²
+VIN: SIXOF      | BEECUCLE                            | Space: 1.0m²
+VIN: GIYEP      | BEECUCLE                            | Space: 1.0m²
+VIN: YOSUF      | BEECUCLE                            | Space: 1.0m²
+VIN: OFESU      | BEECUCLE                            | Space: 1.0m²
+VIN: EYEJI      | BEECUCLE                            | Space: 1.0m²
+VIN: IPOFO      | BEECUCLE                            | Space: 1.0m²
+VIN: QIJIL      | BEECUCLE                            | Space: 1.0m²
+VIN: MAXUJ      | BEECUCLE                            | Space: 1.0m²
+VIN: TIGEP      | BEECUCLE                            | Space: 1.0m²
+VIN: SOFAS      | BEECUCLE                            | Space: 1.0m²
+VIN: SIGUW      | BEECUCLE                            | Space: 1.0m²
+VIN: PUQUQ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUQOC      | BEECUCLE                            | Space: 1.0m²
+VIN: NABIG      | BEECUCLE                            | Space: 1.0m²
+VIN: YEMEN      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAVEL      | BEECUCLE                            | Space: 1.0m²
+VIN: WAXAN      | BEECUCLE                            | Space: 1.0m²
+VIN: UMUJU      | BEECUCLE                            | Space: 1.0m²
+VIN: YUFIY      | BEECUCLE                            | Space: 1.0m²
+VIN: EFIZI      | BEECUCLE                            | Space: 1.0m²
+VIN: ERODU      | BEECUCLE                            | Space: 1.0m²
+VIN: TAZAG      | BEECUCLE                            | Space: 1.0m²
+VIN: MOQUG      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUXUQ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZOKET      | BEECUCLE                            | Space: 1.0m²
+VIN: ZEDIH      | BEECUCLE                            | Space: 1.0m²
+VIN: ORIKI      | BEECUCLE                            | Space: 1.0m²
+VIN: UVODA      | BEECUCLE                            | Space: 1.0m²
+VIN: ETIVO      | BEECUCLE                            | Space: 1.0m²
+VIN: BOYUY      | BEECUCLE                            | Space: 1.0m²
+VIN: CITIY      | BEECUCLE                            | Space: 1.0m²
+VIN: RUNIC      | BEECUCLE                            | Space: 1.0m²
+VIN: GOHIN      | BEECUCLE                            | Space: 1.0m²
+VIN: ASOCE      | BEECUCLE                            | Space: 1.0m²
+VIN: QOYAY      | BEECUCLE                            | Space: 1.0m²
+VIN: DEYIT      | BEECUCLE                            | Space: 1.0m²
+VIN: OHETE      | BEECUCLE                            | Space: 1.0m²
+VIN: UREKE      | BEECUCLE                            | Space: 1.0m²
+VIN: QIFUY      | BEECUCLE                            | Space: 1.0m²
+VIN: EXAWI      | BEECUCLE                            | Space: 1.0m²
+VIN: AHIHA      | BEECUCLE                            | Space: 1.0m²
+VIN: JUHAT      | BEECUCLE                            | Space: 1.0m²
+VIN: AVEGU      | BEECUCLE                            | Space: 1.0m²
+VIN: ARAYA      | BEECUCLE                            | Space: 1.0m²
+VIN: MOLUR      | BEECUCLE                            | Space: 1.0m²
+VIN: LASUL      | BEECUCLE                            | Space: 1.0m²
+VIN: OXOYE      | BEECUCLE                            | Space: 1.0m²
+VIN: OWILI      | BEECUCLE                            | Space: 1.0m²
+VIN: DAYIP      | BEECUCLE                            | Space: 1.0m²
+VIN: JEBAK      | BEECUCLE                            | Space: 1.0m²
+VIN: BIXOK      | BEECUCLE                            | Space: 1.0m²
+VIN: CAWID      | BEECUCLE                            | Space: 1.0m²
+VIN: XANAX      | BEECUCLE                            | Space: 1.0m²
+VIN: KIFEC      | BEECUCLE                            | Space: 1.0m²
+VIN: IHITU      | BEECUCLE                            | Space: 1.0m²
+VIN: OFEKA      | BEECUCLE                            | Space: 1.0m²
+VIN: KUCAW      | BEECUCLE                            | Space: 1.0m²
+VIN: MUZUS      | BEECUCLE                            | Space: 1.0m²
+VIN: JIHES      | BEECUCLE                            | Space: 1.0m²
+VIN: DENUY      | BEECUCLE                            | Space: 1.0m²
+VIN: UDENI      | BEECUCLE                            | Space: 1.0m²
+VIN: OTUDU      | BEECUCLE                            | Space: 1.0m²
+VIN: KUHAX      | BEECUCLE                            | Space: 1.0m²
+VIN: NINOV      | BEECUCLE                            | Space: 1.0m²
+VIN: YAVUR      | BEECUCLE                            | Space: 1.0m²
+VIN: GIXIH      | BEECUCLE                            | Space: 1.0m²
+VIN: ETITO      | BEECUCLE                            | Space: 1.0m²
+VIN: BEFAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: REXIK      | BEECUCLE                            | Space: 1.0m²
+VIN: APUYI      | BEECUCLE                            | Space: 1.0m²
+VIN: ZERAG      | BEECUCLE                            | Space: 1.0m²
+VIN: REFIX      | BEECUCLE                            | Space: 1.0m²
+VIN: UPIGE      | BEECUCLE                            | Space: 1.0m²
+VIN: ASESO      | BEECUCLE                            | Space: 1.0m²
+VIN: EFENA      | BEECUCLE                            | Space: 1.0m²
+VIN: XEPIT      | BEECUCLE                            | Space: 1.0m²
+VIN: OWUJI      | BEECUCLE                            | Space: 1.0m²
+VIN: EFILA      | BEECUCLE                            | Space: 1.0m²
+VIN: OMOSU      | BEECUCLE                            | Space: 1.0m²
+VIN: OHISI      | BEECUCLE                            | Space: 1.0m²
+VIN: ZIXUD      | BEECUCLE                            | Space: 1.0m²
+VIN: JAGIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: YIPUT      | BEECUCLE                            | Space: 1.0m²
+VIN: YUMAV      | BEECUCLE                            | Space: 1.0m²
+VIN: GOTAY      | BEECUCLE                            | Space: 1.0m²
+VIN: PIFUD      | BEECUCLE                            | Space: 1.0m²
+VIN: ZIPEY      | BEECUCLE                            | Space: 1.0m²
+VIN: QAKEB      | BEECUCLE                            | Space: 1.0m²
+VIN: DIDAM      | BEECUCLE                            | Space: 1.0m²
+VIN: NAWUG      | BEECUCLE                            | Space: 1.0m²
+VIN: CARUS      | BEECUCLE                            | Space: 1.0m²
+VIN: EKUHA      | BEECUCLE                            | Space: 1.0m²
+VIN: YUVAL      | BEECUCLE                            | Space: 1.0m²
+VIN: QESOS      | BEECUCLE                            | Space: 1.0m²
+VIN: ENIKE      | BEECUCLE                            | Space: 1.0m²
+VIN: MOZOJ      | BEECUCLE                            | Space: 1.0m²
+VIN: SOYUH      | BEECUCLE                            | Space: 1.0m²
+VIN: KEFES      | BEECUCLE                            | Space: 1.0m²
+VIN: IROQE      | BEECUCLE                            | Space: 1.0m²
+VIN: OROTE      | BEECUCLE                            | Space: 1.0m²
+VIN: UVUYU      | BEECUCLE                            | Space: 1.0m²
+VIN: VILID      | BEECUCLE                            | Space: 1.0m²
+VIN: PENIL      | BEECUCLE                            | Space: 1.0m²
+VIN: OMOGE      | BEECUCLE                            | Space: 1.0m²
+VIN: OGINI      | BEECUCLE                            | Space: 1.0m²
+VIN: ZEZIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: UCAVI      | BEECUCLE                            | Space: 1.0m²
+VIN: OLIDO      | BEECUCLE                            | Space: 1.0m²
+VIN: JOKEY      | BEECUCLE                            | Space: 1.0m²
+VIN: KEFAK      | BEECUCLE                            | Space: 1.0m²
+VIN: WANUZ      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUTOW      | BEECUCLE                            | Space: 1.0m²
+VIN: UXUKI      | BEECUCLE                            | Space: 1.0m²
+VIN: OWEGA      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAPUP      | BEECUCLE                            | Space: 1.0m²
+VIN: UCALE      | BEECUCLE                            | Space: 1.0m²
+VIN: SOWAH      | BEECUCLE                            | Space: 1.0m²
+VIN: XIWUM      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUDUT      | BEECUCLE                            | Space: 1.0m²
+VIN: ZUVON      | BEECUCLE                            | Space: 1.0m²
+VIN: XIYUF      | BEECUCLE                            | Space: 1.0m²
+VIN: OYENU      | BEECUCLE                            | Space: 1.0m²
+VIN: OFOLO      | BEECUCLE                            | Space: 1.0m²
+VIN: XAVEC      | BEECUCLE                            | Space: 1.0m²
+VIN: SOHIQ      | BEECUCLE                            | Space: 1.0m²
+VIN: UZEFO      | BEECUCLE                            | Space: 1.0m²
+VIN: KUGEQ      | BEECUCLE                            | Space: 1.0m²
+VIN: SAMAZ      | BEECUCLE                            | Space: 1.0m²
+VIN: XEREL      | BEECUCLE                            | Space: 1.0m²
+VIN: TOLAF      | BEECUCLE                            | Space: 1.0m²
+VIN: XIHOK      | BEECUCLE                            | Space: 1.0m²
+VIN: MECUV      | BEECUCLE                            | Space: 1.0m²
+VIN: QONAV      | BEECUCLE                            | Space: 1.0m²
+VIN: OBAHO      | BEECUCLE                            | Space: 1.0m²
+VIN: PETUR      | BEECUCLE                            | Space: 1.0m²
+VIN: OJURE      | BEECUCLE                            | Space: 1.0m²
+VIN: TEFOK      | BEECUCLE                            | Space: 1.0m²
+VIN: JINAZ      | BEECUCLE                            | Space: 1.0m²
+VIN: PECOC      | BEECUCLE                            | Space: 1.0m²
+VIN: ISEPO      | BEECUCLE                            | Space: 1.0m²
+VIN: DOSES      | BEECUCLE                            | Space: 1.0m²
+VIN: ALINE      | BEECUCLE                            | Space: 1.0m²
+VIN: LOLOK      | BEECUCLE                            | Space: 1.0m²
+VIN: LAZEY      | BEECUCLE                            | Space: 1.0m²
+VIN: RAHAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: HAHIV      | BEECUCLE                            | Space: 1.0m²
+VIN: KIBOY      | BEECUCLE                            | Space: 1.0m²
+VIN: ECEWU      | BEECUCLE                            | Space: 1.0m²
+VIN: GIGUP      | BEECUCLE                            | Space: 1.0m²
+VIN: OGAVE      | BEECUCLE                            | Space: 1.0m²
+VIN: UDUQI      | BEECUCLE                            | Space: 1.0m²
+VIN: IMAHE      | BEECUCLE                            | Space: 1.0m²
+VIN: FEXOG      | BEECUCLE                            | Space: 1.0m²
+VIN: MAZEG      | BEECUCLE                            | Space: 1.0m²
+VIN: KUNAF      | BEECUCLE                            | Space: 1.0m²
+VIN: KEDOJ      | BEECUCLE                            | Space: 1.0m²
+VIN: JUTUC      | BEECUCLE                            | Space: 1.0m²
+VIN: NIYAW      | BEECUCLE                            | Space: 1.0m²
+VIN: MIZIB      | BEECUCLE                            | Space: 1.0m²
+VIN: KOJUP      | BEECUCLE                            | Space: 1.0m²
+VIN: IREKI      | BEECUCLE                            | Space: 1.0m²
+VIN: ITIFA      | BEECUCLE                            | Space: 1.0m²
+VIN: COFEY      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAPAC      | BEECUCLE                            | Space: 1.0m²
+VIN: TIGUP      | BEECUCLE                            | Space: 1.0m²
+VIN: UCAFA      | BEECUCLE                            | Space: 1.0m²
+VIN: GEYAP      | BEECUCLE                            | Space: 1.0m²
+VIN: OXUXO      | BEECUCLE                            | Space: 1.0m²
+VIN: XEDAD      | BEECUCLE                            | Space: 1.0m²
+VIN: LEQER      | BEECUCLE                            | Space: 1.0m²
+VIN: EGAMU      | BEECUCLE                            | Space: 1.0m²
+VIN: OPOKO      | BEECUCLE                            | Space: 1.0m²
+VIN: IMAXI      | BEECUCLE                            | Space: 1.0m²
+VIN: AMELO      | BEECUCLE                            | Space: 1.0m²
+VIN: UBEYO      | BEECUCLE                            | Space: 1.0m²
+VIN: RIJIY      | BEECUCLE                            | Space: 1.0m²
+VIN: YIGUC      | BEECUCLE                            | Space: 1.0m²
+VIN: TAGEL      | BEECUCLE                            | Space: 1.0m²
+VIN: HEVOY      | BEECUCLE                            | Space: 1.0m²
+VIN: NARIH      | BEECUCLE                            | Space: 1.0m²
+VIN: OBIDO      | BEECUCLE                            | Space: 1.0m²
+VIN: HOWOS      | BEECUCLE                            | Space: 1.0m²
+VIN: EHUQO      | BEECUCLE                            | Space: 1.0m²
+VIN: ECAHU      | BEECUCLE                            | Space: 1.0m²
+VIN: KOPAL      | BEECUCLE                            | Space: 1.0m²
+VIN: OSOLO      | BEECUCLE                            | Space: 1.0m²
+VIN: PAYUS      | BEECUCLE                            | Space: 1.0m²
+VIN: EBIFI      | BEECUCLE                            | Space: 1.0m²
+VIN: UDIWU      | BEECUCLE                            | Space: 1.0m²
+VIN: ANOYU      | BEECUCLE                            | Space: 1.0m²
+VIN: PEPEH      | BEECUCLE                            | Space: 1.0m²
+VIN: ILORE      | BEECUCLE                            | Space: 1.0m²
+VIN: IBALI      | BEECUCLE                            | Space: 1.0m²
+VIN: BUBUV      | BEECUCLE                            | Space: 1.0m²
+VIN: JUTUD      | BEECUCLE                            | Space: 1.0m²
+VIN: SIXUM      | BEECUCLE                            | Space: 1.0m²
+VIN: NUPES      | BEECUCLE                            | Space: 1.0m²
+VIN: OKERA      | BEECUCLE                            | Space: 1.0m²
+VIN: PONOF      | BEECUCLE                            | Space: 1.0m²
+VIN: AJAME      | BEECUCLE                            | Space: 1.0m²
+VIN: OFESA      | BEECUCLE                            | Space: 1.0m²
+VIN: BOJAG      | BEECUCLE                            | Space: 1.0m²
+VIN: MIXEH      | BEECUCLE                            | Space: 1.0m²
+VIN: EBURI      | BEECUCLE                            | Space: 1.0m²
+VIN: EJIRE      | BEECUCLE                            | Space: 1.0m²
+VIN: KODOV      | BEECUCLE                            | Space: 1.0m²
+VIN: KOREB      | BEECUCLE                            | Space: 1.0m²
+VIN: JISES      | BEECUCLE                            | Space: 1.0m²
+VIN: UBAVI      | BEECUCLE                            | Space: 1.0m²
+VIN: NAKEJ      | BEECUCLE                            | Space: 1.0m²
+VIN: KUQUP      | BEECUCLE                            | Space: 1.0m²
+VIN: WOBAQ      | BEECUCLE                            | Space: 1.0m²
+VIN: EPUHA      | BEECUCLE                            | Space: 1.0m²
+VIN: NAVUJ      | BEECUCLE                            | Space: 1.0m²
+VIN: VEKEL      | BEECUCLE                            | Space: 1.0m²
+VIN: RICEC      | BEECUCLE                            | Space: 1.0m²
+VIN: EDIPA      | BEECUCLE                            | Space: 1.0m²
+VIN: IYUVU      | BEECUCLE                            | Space: 1.0m²
+VIN: SEJOZ      | BEECUCLE                            | Space: 1.0m²
+VIN: DOLED      | BEECUCLE                            | Space: 1.0m²
+VIN: MIZUB      | BEECUCLE                            | Space: 1.0m²
+VIN: TEWAS      | BEECUCLE                            | Space: 1.0m²
+VIN: GEXIV      | BEECUCLE                            | Space: 1.0m²
+VIN: EHIGO      | BEECUCLE                            | Space: 1.0m²
+VIN: UNAXU      | BEECUCLE                            | Space: 1.0m²
+VIN: TINON      | BEECUCLE                            | Space: 1.0m²
+VIN: XOMIG      | BEECUCLE                            | Space: 1.0m²
+VIN: NIDOL      | BEECUCLE                            | Space: 1.0m²
+VIN: ZAKAL      | TREX BIKES                          | Space: 1.0m²
+VIN: JONAV      | BEECUCLE                            | Space: 1.0m²
+VIN: YAWAK      | TREX BIKES                          | Space: 1.0m²
+VIN: OKUWE      | BEECUCLE                            | Space: 1.0m²
+VIN: ALESE      | BEECUCLE                            | Space: 1.0m²
+VIN: UHECA      | BEECUCLE                            | Space: 1.0m²
+VIN: AMEVU      | BEECUCLE                            | Space: 1.0m²
+VIN: WEJIM      | BEECUCLE                            | Space: 1.0m²
+VIN: UGEJU      | BEECUCLE                            | Space: 1.0m²
+VIN: EDESE      | BEECUCLE                            | Space: 1.0m²
+VIN: EGETO      | BEECUCLE                            | Space: 1.0m²
+VIN: DEXAK      | BEECUCLE                            | Space: 1.0m²
+VIN: CUZIC      | BEECUCLE                            | Space: 1.0m²
+VIN: AVACE      | BEECUCLE                            | Space: 1.0m²
+VIN: ARUBI      | BEECUCLE                            | Space: 1.0m²
+VIN: JALOV      | BEECUCLE                            | Space: 1.0m²
+VIN: VAGOW      | BEECUCLE                            | Space: 1.0m²
+VIN: SUYOV      | BEECUCLE                            | Space: 1.0m²
+VIN: XUYUX      | BEECUCLE                            | Space: 1.0m²
+
+--- Missing Vehicles ---
+VIN: BEBEY      | xfgtir~removed                      | Space: NOT FOUND
+VIN: COVID      | AHMED27                             | Space: NOT FOUND
+VIN: AQILO      | LUXSEDAN                            | Space: NOT FOUND
+VIN: GOSAD      | RCCAR                               | Space: NOT FOUND
+VIN: IDONE      | LUXSEDAN                            | Space: NOT FOUND
+VIN: OFAGA      | BAVARIA-46-WAGON-319D               | Space: NOT FOUND
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: xtremesp33d | User ID: 34216 | Total Vehicles: 251
+================================================================================
+Total Garage Space Used: 1674.00m²   | 50m² : 34 | 25m²: 67 | 10m²: 168
+
+VIN: JIROR      | SCAMA K460                          | Space: 12.0m²
+VIN: RUGEF      | CITY VAN 2500                       | Space: 10.0m²
+VIN: GONEQ      | BACALHAU                            | Space: 10.0m²
+VIN: WAVOQ      | AUDDA R7                            | Space: 10.0m²
+VIN: OQEFI      | CHV SUBAN                           | Space: 10.0m²
+VIN: REHET      | CHV SUBAN                           | Space: 10.0m²
+VIN: LUCIR      | FEND INTERCEPTOR                    | Space: 10.0m²
+VIN: BOWIJ      | GT-V 2600GTX                        | Space: 10.0m²
+VIN: YIPEY      | LAND ROAMER OFFENDER                | Space: 10.0m²
+VIN: UWUTA      | SNS TIGERUAN 3.0TDI                 | Space: 10.0m²
+VIN: HEQOH      | SNS TIGERUAN 3.0TDI                 | Space: 10.0m²
+VIN: UCUCE      | FXO GTR                             | Space: 9.0m²
+VIN: ZODUT      | XR GTR                              | Space: 9.0m²
+VIN: IGUVA      | XR GTR                              | Space: 9.0m²
+VIN: UFAHU      | FZ50 GTR                            | Space: 9.0m²
+VIN: OMOYI      | FXO GTR                             | Space: 9.0m²
+VIN: SAYIZ      | RB GTR                              | Space: 9.0m²
+VIN: POXIK      | RAC 358                             | Space: 9.0m²
+VIN: ABOQA      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACWPC      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACXBI      | FZ-E                                | Space: 8.0m²
+VIN: ACXMW      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACYHC      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACZQS      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ADIPK      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ADKPG      | FZ-E                                | Space: 8.0m²
+VIN: IMUVI      | LOVLO AW70                          | Space: 8.0m²
+VIN: IKEYA      | BUMER 7                             | Space: 8.0m²
+VIN: WIBEG      | LOVLO AW70                          | Space: 8.0m²
+VIN: DOFAH      | GT-V34                              | Space: 8.0m²
+VIN: ZAVIV      | GT-V34                              | Space: 8.0m²
+VIN: CUNOH      | IBUSHA SAGA                         | Space: 8.0m²
+VIN: EWOFE      | CVF2008                             | Space: 8.0m²
+VIN: AMAJO      | FXO SPORT AWD                       | Space: 8.0m²
+VIN: HEGAV      | BUMER 7                             | Space: 8.0m²
+VIN: XAKAW      | EMERGENCY CAR                       | Space: 8.0m²
+VIN: REZAC      | CVF2008                             | Space: 8.0m²
+VIN: AZODO      | IMPREZZIVE C8                       | Space: 8.0m²
+VIN: UHEVO      | ALEXIS GR-2                         | Space: 8.0m²
+VIN: ULORA      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: OXIGE      | GT-V32 LT                           | Space: 8.0m²
+VIN: ETANU      | XM-5 19                             | Space: 8.0m²
+VIN: OZINO      | KORAMA R                            | Space: 8.0m²
+VIN: XEQAF      | FXK TURBO                           | Space: 8.0m²
+VIN: BACOM      | FZ50 GT                             | Space: 8.0m²
+VIN: ZUBUR      | FRERRI F90                          | Space: 8.0m²
+VIN: XEJUC      | MEMOLUTION 7                        | Space: 8.0m²
+VIN: UHUKO      | BZG MINIVAN                         | Space: 8.0m²
+VIN: TOBUX      | SALIVA15                            | Space: 8.0m²
+VIN: ELUGU      | GT-E34                              | Space: 8.0m²
+VIN: KIVEK      | FZ70 4GTS                           | Space: 8.0m²
+VIN: UCILO      | BZ S5000                            | Space: 8.0m²
+VIN: MIXIK      | VPI-3                               | Space: 8.0m²
+VIN: TIBOW      | FZ70 4GTS                           | Space: 8.0m²
+VIN: NULEQ      | ROKU HATCH                          | Space: 8.0m²
+VIN: OSEGO      | KORAMA R                            | Space: 8.0m²
+VIN: UBAHO      | GENERATION-04                       | Space: 8.0m²
+VIN: BEMUX      | VGI-6 KANJO                         | Space: 8.0m²
+VIN: QEXON      | AHMED 4.0RS                         | Space: 8.0m²
+VIN: FAYEP      | GT-V34 MINE9                        | Space: 8.0m²
+VIN: ODADU      | MEMOLUTION 7                        | Space: 8.0m²
+VIN: EWATA      | TEGRA R DC12                        | Space: 8.0m²
+VIN: MUTUG      | SVT MINIMOUSECAR                    | Space: 8.0m²
+VIN: IFUCA      | GT-E34                              | Space: 8.0m²
+VIN: AGAXE      | GT-V35                              | Space: 8.0m²
+VIN: XAQAY      | BOLKSWAGON B8 BITDI 2.0             | Space: 8.0m²
+VIN: PEXUG      | SHBABY 150 SPORT                    | Space: 8.0m²
+VIN: VIKON      | SLX180                              | Space: 8.0m²
+VIN: UPOXO      | BIMMER 46                           | Space: 8.0m²
+VIN: UGUTA      | XM-5                                | Space: 8.0m²
+VIN: KOKAF      | WAYMACH M500                        | Space: 8.0m²
+VIN: NOSUX      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
+VIN: LUHEM      | BD9115                              | Space: 8.0m²
+VIN: NEDAR      | PREFECTURE GT-TURBO                 | Space: 8.0m²
+VIN: MUHOX      | MECA WAGON                          | Space: 8.0m²
+VIN: UYEHE      | MECHO BOROVO                        | Space: 8.0m²
+VIN: AQIDO      | PORCHETE TIGER GTS                  | Space: 8.0m²
+VIN: NODAP      | ARDO 7Q                             | Space: 8.0m²
+VIN: TOVOW      | DORITO ASTRO 1000                   | Space: 8.0m²
+VIN: HIJEB      | BAVARIA X82 M                       | Space: 8.0m²
+VIN: LOJIM      | GERMAN-WAGEN TADDY 1.9 TDI          | Space: 8.0m²
+VIN: EPUBA      | TINY CUPE S                         | Space: 8.0m²
+VIN: EGUMO      | TINY CUPE S                         | Space: 8.0m²
+VIN: AJUCO      | GERMAN-WAGEN TADDY 1.9 TDI          | Space: 8.0m²
+VIN: XIVEK      | VONDA COUPE                         | Space: 8.0m²
+VIN: HEBER      | VONDA COUPE                         | Space: 8.0m²
+VIN: BAVIS      | ALICE 595                           | Space: 8.0m²
+VIN: CEGOV      | RARRI 36GTS5                        | Space: 8.0m²
+VIN: DIZUM      | JPN CIVIL                           | Space: 8.0m²
+VIN: AVUHO      | TOY YODA JT86                       | Space: 8.0m²
+VIN: UPOBA      | 8JFZ VRS-R                          | Space: 8.0m²
+VIN: AQATE      | MERSOLES LSR300                     | Space: 8.0m²
+VIN: BIFUG      | VONDA IVIC                          | Space: 8.0m²
+VIN: UKIWA      | TEIGRA KV23                         | Space: 8.0m²
+VIN: GUHAQ      | SLX 3000X TURBO                     | Space: 8.0m²
+VIN: DEHIL      | LAMOHEHE BALBONI                    | Space: 8.0m²
+VIN: ZOGIB      | ARDO 7Q V6                          | Space: 8.0m²
+VIN: JIRAT      | BOLKSWAGON B8 3.6                   | Space: 8.0m²
+VIN: AROWI      | MERSOLES AIM GS                     | Space: 8.0m²
+VIN: LIYOT      | MERSOLES GCL63                      | Space: 8.0m²
+VIN: KINEQ      | AHMED 4S                            | Space: 8.0m²
+VIN: IKATO      | AHMED 4S                            | Space: 8.0m²
+VIN: HUZOY      | ROKU TROENO COUPE                   | Space: 8.0m²
+VIN: CIBOP      | JPN D10                             | Space: 8.0m²
+VIN: ERUVE      | CIVIL TS-R                          | Space: 8.0m²
+VIN: YALAS      | BAVARIA D420                        | Space: 8.0m²
+VIN: IYUYO      | JPN COLD                            | Space: 8.0m²
+VIN: IVUXA      | CIVIL TS-R                          | Space: 8.0m²
+VIN: LICOC      | ADDA SR7                            | Space: 8.0m²
+VIN: HOWIQ      | PF FORREAL                          | Space: 8.0m²
+VIN: OVOFA      | CAMMERA 730 TURBO                   | Space: 8.0m²
+VIN: APUME      | PF FORREAL                          | Space: 8.0m²
+VIN: ASUMU      | SLX 3000X TURBO                     | Space: 8.0m²
+VIN: BUWEL      | POSCHER 819                         | Space: 8.0m²
+VIN: IRUPU      | BRADLEY BONTOYGA                    | Space: 8.0m²
+VIN: AYUJU      | BAVARIA N4 E82                      | Space: 8.0m²
+VIN: KAWIV      | TEGRA R DC12                        | Space: 8.0m²
+VIN: COVOS      | ADDA 5S B8                          | Space: 8.0m²
+VIN: ECECO      | VPI-3                               | Space: 8.0m²
+VIN: IBIQI      | ADDA AR-EIGHT V10                   | Space: 8.0m²
+VIN: KUSOL      | N.350S                              | Space: 8.0m²
+VIN: IVITO      | RABUS 650 S63                       | Space: 8.0m²
+VIN: YIPAH      | DADGE VENOM GTS                     | Space: 8.0m²
+VIN: UTOYE      | MZG SEDAN                           | Space: 8.0m²
+VIN: UCOVE      | JPN SUBER                           | Space: 8.0m²
+VIN: ITODE      | BS RPS13                            | Space: 8.0m²
+VIN: PUPUN      | PONTACH GT                          | Space: 8.0m²
+VIN: ELOHO      | BAVARIA 7 HARTMAN                   | Space: 8.0m²
+VIN: ECOJA      | BS RPS13                            | Space: 8.0m²
+VIN: WIHUJ      | GENERAL AMERICAN                    | Space: 8.0m²
+VIN: OGOGA      | POSCHER CAYNAM 718 GT4              | Space: 8.0m²
+VIN: OLASE      | M-C 45                              | Space: 8.0m²
+VIN: PAGIN      | GT-V34 R-TUNE                       | Space: 8.0m²
+VIN: POQAB      | RABUS 650 S63                       | Space: 8.0m²
+VIN: HOJUQ      | JPN MERSOLES E                      | Space: 8.0m²
+VIN: QIGUD      | PORCHETE 781 BAXTER S               | Space: 8.0m²
+VIN: KUVEG      | POSCHER CAYNAM 718                  | Space: 8.0m²
+VIN: EFULA      | M-GT V8                             | Space: 8.0m²
+VIN: TARIB      | NASSEN GT33 R500                    | Space: 8.0m²
+VIN: BARON      | ESTO EVOLUZIONE V10                 | Space: 8.0m²
+VIN: BEHOW      | GT-V34 YAMAGATA                     | Space: 8.0m²
+VIN: UJOPA      | MERSOLES A63 AGM S                  | Space: 8.0m²
+VIN: JOMAB      | SLX141                              | Space: 8.0m²
+VIN: ISOPE      | JPN D80                             | Space: 8.0m²
+VIN: MAGIX      | M-C 45                              | Space: 8.0m²
+VIN: SAVED      | DADGE VENOM GTS                     | Space: 8.0m²
+VIN: AJIQA      | GT-V34 R-TUNE                       | Space: 8.0m²
+VIN: JIDAJ      | ADDA 3S SEDAN                       | Space: 8.0m²
+VIN: SAXIK      | BAVARIA 5X CONTEPITION              | Space: 8.0m²
+VIN: HADOJ      | BVR N3                              | Space: 8.0m²
+VIN: WUVUY      | BS RPS13                            | Space: 8.0m²
+VIN: DOROV      | BAVARIA 5X CONTEPITION              | Space: 8.0m²
+VIN: ETUJA      | KINDAI V20                          | Space: 8.0m²
+VIN: UQAFA      | BAVARIA MM8                         | Space: 8.0m²
+VIN: IHUJU      | BAVARIA N5 V10                      | Space: 8.0m²
+VIN: EWISU      | ADDA 3S SEDAN                       | Space: 8.0m²
+VIN: ACXQN      | ECO XRG                             | Space: 7.0m²
+VIN: ACZZD      | RACEABOUT                           | Space: 7.0m²
+VIN: ADHKY      | RACEABOUT                           | Space: 7.0m²
+VIN: ADISI      | ECO XRG                             | Space: 7.0m²
+VIN: UTUBA      | CX WAGON                            | Space: 7.0m²
+VIN: URUDU      | CX WAGON                            | Space: 7.0m²
+VIN: NUZOP      | XM-5 94 TURBO                       | Space: 7.0m²
+VIN: ODOTE      | VSI-V2000                           | Space: 7.0m²
+VIN: YEQUK      | M-C 180                             | Space: 7.0m²
+VIN: ACQMF      | XF GTR                              | Space: 6.0m²
+VIN: ACXCA      | LX6                                 | Space: 6.0m²
+VIN: ACYDJ      | LX4                                 | Space: 6.0m²
+VIN: ACZNC      | XF GTR                              | Space: 6.0m²
+VIN: ADBJG      | LX6                                 | Space: 6.0m²
+VIN: ADCGM      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ADCQE      | LX4                                 | Space: 6.0m²
+VIN: UGEGO      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: UFOFU      | SWIRL SPORT 06                      | Space: 6.0m²
+VIN: JOSAP      | SWIRL SPORT 06                      | Space: 6.0m²
+VIN: ATIDA      | FAIK TOPO                           | Space: 6.0m²
+VIN: IVUJO      | KEI VAN                             | Space: 6.0m²
+VIN: HAQIN      | BAVARIA_A30TD                       | Space: 6.0m²
+VIN: IFIBI      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: ETAVU      | BLACKBIRD                           | Space: 6.0m²
+VIN: XIGAK      | LUSTER 1.6 DCI                      | Space: 6.0m²
+VIN: GIQUQ      | LOPE ASTA COMBI                     | Space: 6.0m²
+VIN: NEHUC      | TAKUMI THUNDER 16V                  | Space: 6.0m²
+VIN: TIQUG      | SIZUKU_SWIRL_TGI                    | Space: 6.0m²
+VIN: KAVEC      | SIZUKU_SWIRL_TGI                    | Space: 6.0m²
+VIN: OQOQU      | BAVARIA 36 SHORT 18                 | Space: 6.0m²
+VIN: TEHOG      | JPN DIESTA                          | Space: 6.0m²
+VIN: QOPOJ      | JPN GOLR 1.4                        | Space: 6.0m²
+VIN: UXAGO      | TRACTOR                             | Space: 6.0m²
+VIN: BIMEZ      | FK-9                                | Space: 6.0m²
+VIN: REVEZ      | FK-9                                | Space: 6.0m²
+VIN: DIGIV      | XR11 GT 1.6                         | Space: 6.0m²
+VIN: AFUQO      | FEND BB                             | Space: 6.0m²
+VIN: HUHIY      | FEND BR                             | Space: 6.0m²
+VIN: GETEJ      | CMD TIMER                           | Space: 6.0m²
+VIN: ABRAD      | UF GTR                              | Space: 5.0m²
+VIN: ACVXC      | UF 1000                             | Space: 5.0m²
+VIN: ADGUR      | UF GTR                              | Space: 5.0m²
+VIN: HEQOM      | SNAIL 1111                          | Space: 5.0m²
+VIN: IZEPO      | SNAIL 1111                          | Space: 5.0m²
+VIN: BEMEK      | SHARK C                             | Space: 5.0m²
+VIN: JELOD      | CHORUS ATTENDANZE XT-Z 4R           | Space: 5.0m²
+VIN: BIZIC      | CHORUS ATTENDANZE XT-Z 4R           | Space: 5.0m²
+VIN: WEPIT      | BLT SUIRP                           | Space: 5.0m²
+VIN: KUBIJ      | LEMON FRIENDS                       | Space: 5.0m²
+VIN: YAQID      | PZG GTR                             | Space: 5.0m²
+VIN: TIPUR      | BEACH BUGGY                         | Space: 5.0m²
+VIN: ABFVT      | MRT5                                | Space: 4.0m²
+VIN: ADCIM      | MRT5                                | Space: 4.0m²
+VIN: KAKOH      | GOLF CART 200E                      | Space: 4.0m²
+VIN: UZACU      | GOLF CART 200E                      | Space: 4.0m²
+VIN: OGEHU      | QUAD 400X                           | Space: 3.0m²
+VIN: SEDAN      | MOSQUITO - 150CC                    | Space: 2.0m²
+VIN: IVOMO      | VULCAN 998                          | Space: 2.0m²
+VIN: MUWIV      | VULCAN 998                          | Space: 2.0m²
+VIN: PEQOT      | YAHOMA YF 3RR                       | Space: 2.0m²
+VIN: ZUQAP      | JW 350                              | Space: 2.0m²
+VIN: JUYIX      | JW 350                              | Space: 2.0m²
+VIN: OMOTE      | HBIKE V2                            | Space: 2.0m²
+VIN: AWUNI      | HBIKE V2                            | Space: 2.0m²
+VIN: TUBEK      | CHIMERA X1                          | Space: 2.0m²
+VIN: UBAYU      | RZM 250                             | Space: 2.0m²
+VIN: UMACO      | SZK 1300R                           | Space: 2.0m²
+VIN: ZITUK      | SZK 1300R                           | Space: 2.0m²
+VIN: UZUSA      | XINLIN 150                          | Space: 2.0m²
+VIN: XEXAY      | POCKET XR                           | Space: 2.0m²
+VIN: OROTI      | POCKET XR                           | Space: 2.0m²
+VIN: QINIZ      | HRL 1250V                           | Space: 2.0m²
+VIN: LOTAV      | YAHAMA CT200                        | Space: 2.0m²
+VIN: WOZIM      | YAHAMA MIT09                        | Space: 2.0m²
+VIN: KOHOQ      | YAHAMA CT200                        | Space: 2.0m²
+VIN: AQALI      | YAHAMA CT200                        | Space: 2.0m²
+VIN: OTURU      | YKS-R749                            | Space: 2.0m²
+VIN: ONARU      | YAHAMA YFZ 3R                       | Space: 2.0m²
+VIN: ZEMOQ      | HORDA CFR450                        | Space: 2.0m²
+VIN: KUKAS      | KASAWAKI ZR10-X                     | Space: 2.0m²
+VIN: DEJEL      | BAVARIA P1000RR                     | Space: 2.0m²
+VIN: ZEBIC      | YKS-R1052                           | Space: 2.0m²
+VIN: SOWEK      | YKS-R1052                           | Space: 2.0m²
+VIN: WUZUJ      | BAVARIA P1000RX                     | Space: 2.0m²
+VIN: KOHUJ      | BAVARIA P1000R                      | Space: 2.0m²
+VIN: CAJOS      | BAVARIA A1000R                      | Space: 2.0m²
+VIN: DIKUQ      | SZK 900F CLASSIC                    | Space: 2.0m²
+VIN: XIYAQ      | KASAWAKI ZR6-X                      | Space: 2.0m²
+VIN: ERORI      | CADUTI ANIGALE V4                   | Space: 2.0m²
+VIN: OTUQE      | RONG RR                             | Space: 2.0m²
+VIN: AZOSI      | BEECUCLE                            | Space: 1.0m²
+VIN: ORIWI      | IRIDER                              | Space: 1.0m²
+VIN: YOFAK      | GX-BUGGY                            | Space: 1.0m²
+VIN: MUSIC      | GX-BUGGY                            | Space: 1.0m²
+VIN: OFIHE      | GX-BUGGY STAGE 2                    | Space: 1.0m²
+
+--- Missing Vehicles ---
+VIN: ONIYI      | RCCAR                               | Space: NOT FOUND
+VIN: RIHOB      | VKI6                                | Space: NOT FOUND
+VIN: OFUJA      | GTR-R33                             | Space: NOT FOUND
+VIN: QUZIX      | xfgtir~removed                      | Space: NOT FOUND
+VIN: FIBAD      | AHMED19                             | Space: NOT FOUND
+VIN: KIVIL      | KLEO                                | Space: NOT FOUND
+VIN: YAVOY      | BIMMER-36P-TOURING                  | Space: NOT FOUND
+VIN: XIVAQ      | LUXSEDAN-SV                         | Space: NOT FOUND
+VIN: VUTEH      | LUXSEDAN                            | Space: NOT FOUND
+VIN: YEPUF      | voltarum~removed                    | Space: NOT FOUND
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: speeddemonn | User ID: 28938 | Total Vehicles: 142
+================================================================================
+Total Garage Space Used: 959.00m²   | 50m² : 20 | 25m²: 39 | 10m²: 96
+
+VIN: KOSIM      | SCAMA T580                          | Space: 20.0m²
+VIN: SOHAQ      | MC SPLANTER                         | Space: 12.0m²
+VIN: WUYOB      | METRO BUS 10.5                      | Space: 10.0m²
+VIN: IDOCA      | UF PICKUP TRUCK                     | Space: 10.0m²
+VIN: UHUKU      | MOVETRUCK                           | Space: 10.0m²
+VIN: HUWOM      | ONIBUS VTR                          | Space: 10.0m²
+VIN: NEQOM      | GRUZ FEUERWEHR                      | Space: 10.0m²
+VIN: QOFIX      | DIAMOND                             | Space: 10.0m²
+VIN: OBOBU      | TVANSIT YAN                         | Space: 10.0m²
+VIN: QAFAL      | IKRAUS_260                          | Space: 10.0m²
+VIN: EYURE      | MAXXX                               | Space: 10.0m²
+VIN: EDECO      | MARIGUS                             | Space: 10.0m²
+VIN: FATEN      | FEND INTERCEPTOR                    | Space: 10.0m²
+VIN: VORUR      | ROSSA                               | Space: 10.0m²
+VIN: AVUZA      | MC KRANKENWAGEN                     | Space: 10.0m²
+VIN: QILAY      | CHV SUBAN                           | Space: 10.0m²
+VIN: ULEJA      | MERSOLES COMEGO                     | Space: 10.0m²
+VIN: YICUV      | PATRIOT                             | Space: 10.0m²
+VIN: DOYEV      | XR GTR                              | Space: 9.0m²
+VIN: UJUZO      | FXO GTR                             | Space: 9.0m²
+VIN: EBEQA      | FZ50 GTR                            | Space: 9.0m²
+VIN: AQEZE      | FORMULA GROUNDEFFECT                | Space: 9.0m²
+VIN: AAJMT      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: AAXCT      | FZ-E                                | Space: 8.0m²
+VIN: ABIPR      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACWMJ      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ADANV      | XR GT TURBO                         | Space: 8.0m²
+VIN: ADKWW      | FZ-E                                | Space: 8.0m²
+VIN: EMAMA      | FX ELECTRIC                         | Space: 8.0m²
+VIN: OREBI      | RB4 GT T5 RESCUE                    | Space: 8.0m²
+VIN: APOWE      | FXO SPORT AWD                       | Space: 8.0m²
+VIN: XUDUZ      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: NEJOL      | FEND TORUS                          | Space: 8.0m²
+VIN: IHANA      | GT-V34                              | Space: 8.0m²
+VIN: INUDE      | GT-V34                              | Space: 8.0m²
+VIN: KEREJ      | BIMMER 46                           | Space: 8.0m²
+VIN: TIGON      | SALIVA15                            | Space: 8.0m²
+VIN: XORUP      | EMERGENCY CAR                       | Space: 8.0m²
+VIN: DOFAK      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
+VIN: BEDAX      | COQUETTE Z5 CONVERTIBLE             | Space: 8.0m²
+VIN: WOTUW      | FXO SPORT AWD                       | Space: 8.0m²
+VIN: DOMOZ      | GE20                                | Space: 8.0m²
+VIN: CODUG      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: WUBAC      | TEGRA R DC12                        | Space: 8.0m²
+VIN: UJIFO      | GW-DECA                             | Space: 8.0m²
+VIN: CAGOH      | N.400S GT4                          | Space: 8.0m²
+VIN: ZUSIF      | FZ50 GT                             | Space: 8.0m²
+VIN: UQOLU      | BUMER 7                             | Space: 8.0m²
+VIN: CEJIK      | MERSOLES 300LS                      | Space: 8.0m²
+VIN: WOJIR      | BAVARIA N5                          | Space: 8.0m²
+VIN: LEQAV      | SOON VPI-3                          | Space: 8.0m²
+VIN: ECEMA      | PEJO 310                            | Space: 8.0m²
+VIN: MIMUB      | JPN D30                             | Space: 8.0m²
+VIN: OHIJO      | POSCHER CAYNAM 718                  | Space: 8.0m²
+VIN: AQAWA      | SEDAN                               | Space: 8.0m²
+VIN: WOBER      | STARLINE V32                        | Space: 8.0m²
+VIN: WUWOV      | PF FORREAL                          | Space: 8.0m²
+VIN: QUKIH      | MERESDES E910                       | Space: 8.0m²
+VIN: LONIL      | PF FORREAL                          | Space: 8.0m²
+VIN: UKOSI      | STARLINE V32                        | Space: 8.0m²
+VIN: KETUF      | ARTON MASTIN 117                    | Space: 8.0m²
+VIN: IJAXO      | REDHEAD HORSE                       | Space: 8.0m²
+VIN: UVEFI      | GERMAN-WAGEN TADDY 1.9 TDI          | Space: 8.0m²
+VIN: UQAQA      | PREFECTURE GT-TURBO                 | Space: 8.0m²
+VIN: ONEPE      | BOLVO 8T 2.0                        | Space: 8.0m²
+VIN: UFUJA      | ADDA B6                             | Space: 8.0m²
+VIN: UQUXA      | CIVIL TS-R                          | Space: 8.0m²
+VIN: JIQAF      | JPN D80                             | Space: 8.0m²
+VIN: ZIGOP      | 8JFZ VRS-R                          | Space: 8.0m²
+VIN: OMEZI      | JPN LION                            | Space: 8.0m²
+VIN: WEKEZ      | BERVO 850 TURBO                     | Space: 8.0m²
+VIN: EPAWO      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
+VIN: OZAMI      | PONTACH GT                          | Space: 8.0m²
+VIN: EDOHU      | VONDA IVIC                          | Space: 8.0m²
+VIN: QUNOR      | LOWSTARS COUPE                      | Space: 8.0m²
+VIN: JUNAR      | SVT 740                             | Space: 8.0m²
+VIN: JECUD      | FZ60                                | Space: 8.0m²
+VIN: HOGUN      | JPN COROLO                          | Space: 8.0m²
+VIN: JIFEF      | BOLKSWAGON B8 3.6                   | Space: 8.0m²
+VIN: ZUGED      | GENERAL AMERICAN                    | Space: 8.0m²
+VIN: AXETA      | BAVARIA N4 E82                      | Space: 8.0m²
+VIN: XOMOH      | POSCHER 819                         | Space: 8.0m²
+VIN: MIWUB      | DODGO CHAMENGER RST                 | Space: 8.0m²
+VIN: AXEZE      | LE RAULT CINQ TURBO                 | Space: 8.0m²
+VIN: ZUYOT      | MERSOLES A63 AGM S                  | Space: 8.0m²
+VIN: UNILE      | BAVARIA MM8                         | Space: 8.0m²
+VIN: TEXOV      | GT-V 32 D                           | Space: 8.0m²
+VIN: ZECEQ      | LIGEIRINHO GT                       | Space: 8.0m²
+VIN: OBAGA      | BAVARIA N3 M81                      | Space: 8.0m²
+VIN: TICEZ      | BAVARIA N3 M80                      | Space: 8.0m²
+VIN: IXUYI      | PAC OO7IL                           | Space: 8.0m²
+VIN: AABMB      | ECO XRG                             | Space: 7.0m²
+VIN: ACXRP      | RACEABOUT                           | Space: 7.0m²
+VIN: KAHUH      | LEMON ARA COUPE                     | Space: 7.0m²
+VIN: LEFEK      | SAHAN S 1.6                         | Space: 7.0m²
+VIN: AAACD      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: AAAWN      | LX4                                 | Space: 6.0m²
+VIN: ABOBA      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ACZST      | LX4                                 | Space: 6.0m²
+VIN: ADANW      | LX6                                 | Space: 6.0m²
+VIN: ADLEH      | XF GTR                              | Space: 6.0m²
+VIN: ICUNI      | BUG WAGON                           | Space: 6.0m²
+VIN: OFORI      | BUGGY_1600_V2                       | Space: 6.0m²
+VIN: UGUYA      | LEMON CULTE                         | Space: 6.0m²
+VIN: BAXOC      | M140                                | Space: 6.0m²
+VIN: FISER      | DAGAN 1.6                           | Space: 6.0m²
+VIN: MAVEB      | FAIK TOPO                           | Space: 6.0m²
+VIN: ADCRG      | UF GTR                              | Space: 5.0m²
+VIN: FEQEH      | SKODA 110 L                         | Space: 5.0m²
+VIN: NODUS      | UF 1000                             | Space: 5.0m²
+VIN: KAYEZ      | PEEPEE50                            | Space: 4.0m²
+VIN: EMEVA      | THR MB500                           | Space: 4.0m²
+VIN: JEJOZ      | QUAD 400X                           | Space: 3.0m²
+VIN: KIFOY      | VULCAN 998                          | Space: 2.0m²
+VIN: QEKEC      | JW 350                              | Space: 2.0m²
+VIN: IVIXO      | CHIMERA X1                          | Space: 2.0m²
+VIN: JOTUH      | REAPER X1                           | Space: 2.0m²
+VIN: BEWEK      | HRL 1250V                           | Space: 2.0m²
+VIN: KAQAS      | REAPER X1                           | Space: 2.0m²
+VIN: QOPIP      | YAMI 3R                             | Space: 2.0m²
+VIN: HIZUD      | GHOUL 250RR                         | Space: 2.0m²
+VIN: VEZIS      | RZM 09                              | Space: 2.0m²
+VIN: ISIYI      | TSX750                              | Space: 2.0m²
+VIN: MUFAR      | TI 125 EXECUTIVE                    | Space: 2.0m²
+VIN: SEDIR      | YAHAMA YFZ 3R                       | Space: 2.0m²
+VIN: ASUSU      | SZK GSR-X1300 HAYO                  | Space: 2.0m²
+VIN: TEWUM      | YAHAMA MIT09                        | Space: 2.0m²
+VIN: MIQON      | HYPERION                            | Space: 2.0m²
+VIN: BUMOD      | SAMURAI RSX-R 1300 HAYATO           | Space: 2.0m²
+VIN: JONOD      | KASAWAKI ZR10-X                     | Space: 2.0m²
+VIN: BELED      | BD750                               | Space: 2.0m²
+VIN: IKAFA      | BAVARIA A1000R                      | Space: 2.0m²
+VIN: EFEFU      | BAVARIA P1000RR                     | Space: 2.0m²
+VIN: AWUQO      | BAVARIA P1000RX                     | Space: 2.0m²
+VIN: WIYUF      | CADUTI ANIGALE V4                   | Space: 2.0m²
+VIN: HATIR      | KASAWAKI ZR6-X                      | Space: 2.0m²
+VIN: WAPOL      | RONG RR                             | Space: 2.0m²
+VIN: ESETI      | IRIDER                              | Space: 1.0m²
+VIN: DOSEX      | GX-BUGGY                            | Space: 1.0m²
+VIN: MUBAS      | GX-BUGGY STAGE R                    | Space: 1.0m²
+VIN: ULOWU      | TREX BIKES                          | Space: 1.0m²
+VIN: AYADI      | BEECUCLE                            | Space: 1.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: vza | User ID: 23377 | Total Vehicles: 104
+================================================================================
+Total Garage Space Used: 826.00m²   | 50m² : 17 | 25m²: 34 | 10m²: 83
+
+VIN: AACDD      | FZ-E                                | Space: 8.0m²
+VIN: AAGCR      | FZ-E                                | Space: 8.0m²
+VIN: AAPBK      | FZ-E                                | Space: 8.0m²
+VIN: AAQOQ      | FZ-E                                | Space: 8.0m²
+VIN: ABAEX      | FZ-E                                | Space: 8.0m²
+VIN: ABFVF      | FZ-E                                | Space: 8.0m²
+VIN: ABGJM      | FZ-E                                | Space: 8.0m²
+VIN: ABJCE      | FZ-E                                | Space: 8.0m²
+VIN: ABNHI      | FZ-E                                | Space: 8.0m²
+VIN: ABNVK      | FZ-E                                | Space: 8.0m²
+VIN: ABOGZ      | FZ-E                                | Space: 8.0m²
+VIN: ABPHP      | FZ-E                                | Space: 8.0m²
+VIN: ABUCX      | FZ-E                                | Space: 8.0m²
+VIN: ABWLB      | FZ-E                                | Space: 8.0m²
+VIN: ABXFF      | FZ-E                                | Space: 8.0m²
+VIN: ACCPI      | FZ-E                                | Space: 8.0m²
+VIN: ACDIB      | FZ-E                                | Space: 8.0m²
+VIN: ACEIU      | FZ-E                                | Space: 8.0m²
+VIN: ACIZU      | FZ-E                                | Space: 8.0m²
+VIN: ACJHP      | FZ-E                                | Space: 8.0m²
+VIN: ACKHB      | FZ-E                                | Space: 8.0m²
+VIN: ACKMY      | FZ-E                                | Space: 8.0m²
+VIN: ACLZB      | FZ-E                                | Space: 8.0m²
+VIN: ACMDA      | FZ-E                                | Space: 8.0m²
+VIN: ACMGF      | FZ-E                                | Space: 8.0m²
+VIN: ACMMQ      | FZ-E                                | Space: 8.0m²
+VIN: ACNBP      | FZ-E                                | Space: 8.0m²
+VIN: ACOTB      | FZ-E                                | Space: 8.0m²
+VIN: ACPAA      | FZ-E                                | Space: 8.0m²
+VIN: ACPRK      | FZ-E                                | Space: 8.0m²
+VIN: ACQLY      | FZ-E                                | Space: 8.0m²
+VIN: ACRRS      | FZ-E                                | Space: 8.0m²
+VIN: ACTND      | FZ-E                                | Space: 8.0m²
+VIN: ACUDF      | FZ-E                                | Space: 8.0m²
+VIN: ACUDY      | FZ-E                                | Space: 8.0m²
+VIN: ACWDO      | FZ-E                                | Space: 8.0m²
+VIN: ACXUB      | FZ-E                                | Space: 8.0m²
+VIN: ADCQF      | FZ-E                                | Space: 8.0m²
+VIN: ADDJY      | FZ-E                                | Space: 8.0m²
+VIN: ADEDY      | FZ-E                                | Space: 8.0m²
+VIN: ADFFP      | FZ-E                                | Space: 8.0m²
+VIN: ADHEJ      | FZ-E                                | Space: 8.0m²
+VIN: ADHHY      | FZ-E                                | Space: 8.0m²
+VIN: ADHZX      | FZ-E                                | Space: 8.0m²
+VIN: ADILE      | FZ-E                                | Space: 8.0m²
+VIN: ADKQZ      | FZ-E                                | Space: 8.0m²
+VIN: ADLLS      | FZ-E                                | Space: 8.0m²
+VIN: ADMEQ      | FZ-E                                | Space: 8.0m²
+VIN: ZIRAB      | FZ-E                                | Space: 8.0m²
+VIN: LESIL      | FZ-E                                | Space: 8.0m²
+VIN: TILEQ      | FZ-E                                | Space: 8.0m²
+VIN: PEJOW      | FZ-E                                | Space: 8.0m²
+VIN: YEXAG      | FZ-E                                | Space: 8.0m²
+VIN: AMEBA      | FZ-E                                | Space: 8.0m²
+VIN: VETOL      | FZ-E                                | Space: 8.0m²
+VIN: UCILU      | FZ-E                                | Space: 8.0m²
+VIN: TIZED      | FZ-E                                | Space: 8.0m²
+VIN: WELAD      | FZ-E                                | Space: 8.0m²
+VIN: IMIQA      | FZ-E                                | Space: 8.0m²
+VIN: XAHUF      | FZ-E                                | Space: 8.0m²
+VIN: VAGAY      | FZ-E                                | Space: 8.0m²
+VIN: PUTAQ      | FZ-E                                | Space: 8.0m²
+VIN: USAMU      | FZ-E                                | Space: 8.0m²
+VIN: EREXU      | FZ-E                                | Space: 8.0m²
+VIN: JUQOK      | FZ-E                                | Space: 8.0m²
+VIN: UMOYO      | FZ-E                                | Space: 8.0m²
+VIN: UMOLA      | FZ-E                                | Space: 8.0m²
+VIN: ADUJE      | FZ-E                                | Space: 8.0m²
+VIN: CODIB      | FZ-E                                | Space: 8.0m²
+VIN: RASEG      | FZ-E                                | Space: 8.0m²
+VIN: ULACA      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: VEZOZ      | FZ-E                                | Space: 8.0m²
+VIN: XERUY      | FZ-E                                | Space: 8.0m²
+VIN: MEVAY      | FZ-E                                | Space: 8.0m²
+VIN: KEFOK      | FZ-E                                | Space: 8.0m²
+VIN: RAYEN      | FZ-E                                | Space: 8.0m²
+VIN: DIZEX      | FZ-E                                | Space: 8.0m²
+VIN: OGEPA      | FZ-E                                | Space: 8.0m²
+VIN: ISELA      | FZ-E                                | Space: 8.0m²
+VIN: HEXER      | FZ-E                                | Space: 8.0m²
+VIN: SUYUV      | FZ-E                                | Space: 8.0m²
+VIN: AVUTO      | FZ-E                                | Space: 8.0m²
+VIN: EFEZE      | FZ-E                                | Space: 8.0m²
+VIN: XAWOC      | FZ-E                                | Space: 8.0m²
+VIN: PUROP      | FZ-E                                | Space: 8.0m²
+VIN: AYAFO      | FZ-E                                | Space: 8.0m²
+VIN: EMIHE      | FZ-E                                | Space: 8.0m²
+VIN: KILEC      | FZ-E                                | Space: 8.0m²
+VIN: UQALE      | FZ-E                                | Space: 8.0m²
+VIN: VAWOZ      | FZ-E                                | Space: 8.0m²
+VIN: ZAVOV      | FZ-E                                | Space: 8.0m²
+VIN: GIZAL      | FZ-E                                | Space: 8.0m²
+VIN: UMOBO      | FZ-E                                | Space: 8.0m²
+VIN: AKEHA      | FZ-E                                | Space: 8.0m²
+VIN: SIXOZ      | FZ-E                                | Space: 8.0m²
+VIN: VIDOH      | FZ-E                                | Space: 8.0m²
+VIN: USUFI      | FZ-E                                | Space: 8.0m²
+VIN: APOVE      | FZ-E                                | Space: 8.0m²
+VIN: UDOJI      | FZ-E                                | Space: 8.0m²
+VIN: OQOGI      | FZ-E                                | Space: 8.0m²
+VIN: ITOPE      | FZ-E                                | Space: 8.0m²
+VIN: IRAHO      | FZ-E                                | Space: 8.0m²
+VIN: EYUCE      | EMERGENCY CAR                       | Space: 8.0m²
+VIN: RALER      | VULCAN 998                          | Space: 2.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: vercetti87 | User ID: 24338 | Total Vehicles: 104
+================================================================================
+Total Garage Space Used: 581.00m²   | 50m² : 12 | 25m²: 24 | 10m²: 59
+
+VIN: OWURE      | LINE RUNNER IV                      | Space: 20.0m²
+VIN: LAZIJ      | SCAMA 311 B ARQUEADO                | Space: 20.0m²
+VIN: AKEZA      | PUSHBACK TUG                        | Space: 20.0m²
+VIN: QIPID      | SCAMA T580                          | Space: 20.0m²
+VIN: ODAPE      | LCT3000                             | Space: 16.0m²
+VIN: KERAC      | SCAMA K460                          | Space: 12.0m²
+VIN: ICUXO      | TOWN BUS                            | Space: 12.0m²
+VIN: EGIPE      | CITY VAN 2500                       | Space: 10.0m²
+VIN: UNUHI      | METRO BUS 10.5                      | Space: 10.0m²
+VIN: PUFOK      | BACALHAU                            | Space: 10.0m²
+VIN: EJIWE      | IKRAUS_260                          | Space: 10.0m²
+VIN: DIKIM      | GRUZ_1RUNNER                        | Space: 10.0m²
+VIN: DOZUY      | RTS 6-71                            | Space: 10.0m²
+VIN: ALAFO      | ROSSA                               | Space: 10.0m²
+VIN: EKELI      | FXO GTR                             | Space: 9.0m²
+VIN: ACOEL      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACXDG      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACXJK      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACZXG      | FZ-E                                | Space: 8.0m²
+VIN: RIGEF      | DORITO FD7                          | Space: 8.0m²
+VIN: MOYOD      | MECA WAGON                          | Space: 8.0m²
+VIN: DACAM      | IMPREZZIVE B2                       | Space: 8.0m²
+VIN: UVOPO      | SEDAN                               | Space: 8.0m²
+VIN: KECOR      | REDHEAD HORSE                       | Space: 8.0m²
+VIN: ACMJF      | ECO XRG                             | Space: 7.0m²
+VIN: ACXXC      | RACEABOUT                           | Space: 7.0m²
+VIN: OQOGE      | CX WAGON                            | Space: 7.0m²
+VIN: AQIXO      | LEMON ARA                           | Space: 7.0m²
+VIN: OSIRA      | SAHAN S 1.6                         | Space: 7.0m²
+VIN: ACMKT      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ACNDL      | LX4                                 | Space: 6.0m²
+VIN: ACYRP      | LX6                                 | Space: 6.0m²
+VIN: OFEGE      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: NABAF      | SWIRL SPORT 06                      | Space: 6.0m²
+VIN: AWISA      | FAIK TOPO                           | Space: 6.0m²
+VIN: AFEFU      | ESPRESSO D                          | Space: 6.0m²
+VIN: IMAYO      | LOPE ASTA                           | Space: 6.0m²
+VIN: ARUFA      | KEI VAN                             | Space: 6.0m²
+VIN: ISUVU      | BUG WAGON                           | Space: 6.0m²
+VIN: QAFUD      | PZG COMPACT CITY                    | Space: 6.0m²
+VIN: UCOSE      | LOPE ASTA COMBI                     | Space: 6.0m²
+VIN: UXIDU      | LEMON CULTE                         | Space: 6.0m²
+VIN: OQEFU      | SKODA FELICIA                       | Space: 6.0m²
+VIN: ADKMN      | UF GTR                              | Space: 5.0m²
+VIN: ETILI      | UF 1000                             | Space: 5.0m²
+VIN: WUNIJ      | SNAIL 1111                          | Space: 5.0m²
+VIN: EWABA      | INVALIDKA                           | Space: 5.0m²
+VIN: LAHUV      | SHARK C                             | Space: 5.0m²
+VIN: EPITI      | CHORUS ATTENDANZE XT-Z 4R           | Space: 5.0m²
+VIN: IBOLO      | UZOVKA                              | Space: 5.0m²
+VIN: PAXUQ      | VAICHOVER                           | Space: 5.0m²
+VIN: IPOBU      | NA660                               | Space: 5.0m²
+VIN: NOFIW      | NESTOR 3                            | Space: 5.0m²
+VIN: GOYUF      | SKODA 110 L                         | Space: 5.0m²
+VIN: IYOKU      | LEMON DUCKLING                      | Space: 5.0m²
+VIN: GIVUZ      | REALAINT MK1                        | Space: 5.0m²
+VIN: WAXUD      | FAIKPOLSKI_MALACZ                   | Space: 5.0m²
+VIN: TAPIM      | HANZMUND V8                         | Space: 5.0m²
+VIN: LAWUD      | TAAT NANA                           | Space: 5.0m²
+VIN: NANIH      | REGARDE ANCHOIS                     | Space: 5.0m²
+VIN: ICIMO      | BRAPANT                             | Space: 5.0m²
+VIN: NULEN      | HUBA 4X                             | Space: 5.0m²
+VIN: OJOZE      | RELUANT WINGOO                      | Space: 5.0m²
+VIN: RUSOP      | HADIMRSKA SPORT                     | Space: 5.0m²
+VIN: JOJOZ      | BEACH BUGGY                         | Space: 5.0m²
+VIN: ACWRM      | MRT5                                | Space: 4.0m²
+VIN: UREJO      | GOLF CART 200E                      | Space: 4.0m²
+VIN: OJUBE      | PEEPEE50                            | Space: 4.0m²
+VIN: ROPAP      | MOVVER 3000S                        | Space: 4.0m²
+VIN: XAPUY      | QUAD 400X                           | Space: 3.0m²
+VIN: YADAS      | MOSQUITO - 150CC                    | Space: 2.0m²
+VIN: EFOQI      | JW 350                              | Space: 2.0m²
+VIN: IRURO      | POCKET ROCKET                       | Space: 2.0m²
+VIN: UTIHI      | BRABIKE                             | Space: 2.0m²
+VIN: LIROG      | VULCAN 998                          | Space: 2.0m²
+VIN: IXASI      | TI 125 EXECUTIVE                    | Space: 2.0m²
+VIN: SOVIT      | RZM 250                             | Space: 2.0m²
+VIN: EWAXU      | BOX CAR 250                         | Space: 2.0m²
+VIN: JEBED      | XINLIN 150                          | Space: 2.0m²
+VIN: JULIV      | REAPER X1                           | Space: 2.0m²
+VIN: IKAWI      | HRL 1250V                           | Space: 2.0m²
+VIN: JIYIJ      | SZK 1300R                           | Space: 2.0m²
+VIN: WEYEG      | HYPERION                            | Space: 2.0m²
+VIN: KIPIK      | SZK 400 CLASSIC                     | Space: 2.0m²
+VIN: EQONU      | CHIMERA X1                          | Space: 2.0m²
+VIN: UXUHA      | RZM 09                              | Space: 2.0m²
+VIN: EQEJI      | POCKET UF                           | Space: 2.0m²
+VIN: VIMUJ      | POCKET XR                           | Space: 2.0m²
+VIN: UYIMO      | YAHAMA CT125 DR                     | Space: 2.0m²
+VIN: GEDOP      | YAHAMA CT200                        | Space: 2.0m²
+VIN: JAYEF      | JOKASWAY 50CC                       | Space: 2.0m²
+VIN: IGOYU      | TSX750                              | Space: 2.0m²
+VIN: OBAHE      | HORDA SPLASH                        | Space: 2.0m²
+VIN: DOZEF      | YKS-R50                             | Space: 2.0m²
+VIN: DIZOW      | PAGGO WASP 125                      | Space: 2.0m²
+VIN: OBEYI      | KUDA GC                             | Space: 2.0m²
+VIN: MUPER      | K300X                               | Space: 2.0m²
+VIN: ETEPE      | TURBO REAPER                        | Space: 2.0m²
+VIN: ALENA      | IRIDER                              | Space: 1.0m²
+VIN: OKASU      | GX-BUGGY                            | Space: 1.0m²
+VIN: AMOSU      | GX-BUGGY STAGE R                    | Space: 1.0m²
+VIN: TILIS      | GX-BUGGY STAGE 2                    | Space: 1.0m²
+VIN: ONIFI      | BEECUCLE                            | Space: 1.0m²
+VIN: UZUWE      | TREX BIKES                          | Space: 1.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: patlock | User ID: 27347 | Total Vehicles: 85
+================================================================================
+Total Garage Space Used: 573.00m²   | 50m² : 12 | 25m²: 23 | 10m²: 58
+
+VIN: GABEW      | LCT3000                             | Space: 16.0m²
+VIN: AKIKO      | GG55 AMD                            | Space: 10.0m²
+VIN: DIGEC      | BACALHAU                            | Space: 10.0m²
+VIN: ASOKO      | CITY VAN 2500                       | Space: 10.0m²
+VIN: HUBOK      | METRO BUS 10.5                      | Space: 10.0m²
+VIN: EVIVU      | XR GTR                              | Space: 9.0m²
+VIN: IGIQA      | FXO GTR                             | Space: 9.0m²
+VIN: AAWEV      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ABCZO      | XR GT TURBO                         | Space: 8.0m²
+VIN: ABDKY      | FZ-E                                | Space: 8.0m²
+VIN: ABDLR      | FZ-E                                | Space: 8.0m²
+VIN: ABELY      | XR GT TURBO                         | Space: 8.0m²
+VIN: ABNWE      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ABNWO      | FZ-E                                | Space: 8.0m²
+VIN: ABQJU      | FZ-E                                | Space: 8.0m²
+VIN: ABVYE      | FZ-E                                | Space: 8.0m²
+VIN: ABXHO      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACADQ      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACAIR      | FZ-E                                | Space: 8.0m²
+VIN: ACCCQ      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACCOM      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACDJR      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACDNY      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACEJK      | XR GT TURBO                         | Space: 8.0m²
+VIN: ACHFJ      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACHUT      | FZ-E                                | Space: 8.0m²
+VIN: ACLOL      | FZ-E                                | Space: 8.0m²
+VIN: ACQGW      | FZ-E                                | Space: 8.0m²
+VIN: ACSDQ      | FZ-E                                | Space: 8.0m²
+VIN: ACVYM      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ADAFX      | FZ-E                                | Space: 8.0m²
+VIN: ADAMG      | FZ-E                                | Space: 8.0m²
+VIN: ADCEF      | FZ-E                                | Space: 8.0m²
+VIN: ADEDM      | FZ-E                                | Space: 8.0m²
+VIN: ADKMQ      | FZ-E                                | Space: 8.0m²
+VIN: KIMAS      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: WEZOY      | RB4 GT T5 RESCUE                    | Space: 8.0m²
+VIN: AACQX      | ECO XRG                             | Space: 7.0m²
+VIN: AAMUD      | RACEABOUT                           | Space: 7.0m²
+VIN: ABTRD      | RACEABOUT                           | Space: 7.0m²
+VIN: ACETE      | ECO XRG                             | Space: 7.0m²
+VIN: ACFQP      | ECO XRG                             | Space: 7.0m²
+VIN: ACUCC      | RACEABOUT                           | Space: 7.0m²
+VIN: ADDIU      | RACEABOUT                           | Space: 7.0m²
+VIN: ADLOF      | RACEABOUT                           | Space: 7.0m²
+VIN: AASDW      | LX4                                 | Space: 6.0m²
+VIN: AAXFI      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ABDHN      | XF GTR                              | Space: 6.0m²
+VIN: ABDHO      | LX6                                 | Space: 6.0m²
+VIN: ABDRN      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ABOSA      | LX6                                 | Space: 6.0m²
+VIN: ABWUR      | XF GTR                              | Space: 6.0m²
+VIN: ABZPK      | LX6                                 | Space: 6.0m²
+VIN: ACDBS      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ACGZP      | LX4                                 | Space: 6.0m²
+VIN: ACJCI      | XF GTR                              | Space: 6.0m²
+VIN: ACJLN      | LX6                                 | Space: 6.0m²
+VIN: ACNVV      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ACXTH      | LX4                                 | Space: 6.0m²
+VIN: ACZDF      | LX6                                 | Space: 6.0m²
+VIN: ADDUG      | XF GTR                              | Space: 6.0m²
+VIN: ADLPZ      | XF GTR                              | Space: 6.0m²
+VIN: ADLQA      | XF GTR                              | Space: 6.0m²
+VIN: ODALI      | LX4                                 | Space: 6.0m²
+VIN: UPIQE      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: AAGOE      | UF 1000                             | Space: 5.0m²
+VIN: AANNA      | UF GTR                              | Space: 5.0m²
+VIN: ABCYF      | UF GTR                              | Space: 5.0m²
+VIN: ADLUL      | UF 1000                             | Space: 5.0m²
+VIN: ADLWL      | UF 1000                             | Space: 5.0m²
+VIN: ADLXQ      | UF GTR                              | Space: 5.0m²
+VIN: ADLXX      | UF 1000                             | Space: 5.0m²
+VIN: ADMAY      | UF 1000                             | Space: 5.0m²
+VIN: ADMEU      | UF GTR                              | Space: 5.0m²
+VIN: HOYOK      | UF 1000                             | Space: 5.0m²
+VIN: CADET      | SHARK C                             | Space: 5.0m²
+VIN: AAOKP      | MRT5                                | Space: 4.0m²
+VIN: AAUKK      | MRT5                                | Space: 4.0m²
+VIN: ABVZK      | MRT5                                | Space: 4.0m²
+VIN: ACGKG      | MRT5                                | Space: 4.0m²
+VIN: ADMEE      | MRT5                                | Space: 4.0m²
+VIN: EGOFI      | QUAD 400X                           | Space: 3.0m²
+VIN: HUFUW      | MOSQUITO - 150CC                    | Space: 2.0m²
+VIN: OCEVE      | HBIKE V2                            | Space: 2.0m²
+VIN: QIYAW      | IRIDER                              | Space: 1.0m²
+
+--- Missing Vehicles ---
+VIN: UYEFE      | ROSSI                               | Space: NOT FOUND
+VIN: UZONU      | CAM730                              | Space: NOT FOUND
+VIN: ATINI      | 650RR                               | Space: NOT FOUND
+VIN: HOZOV      | TRUCK66                             | Space: NOT FOUND
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: THE WIZARD DK | User ID: 1283 | Total Vehicles: 73
+================================================================================
+Total Garage Space Used: 564.00m²   | 50m² : 12 | 25m²: 23 | 10m²: 57
+
+VIN: SEWIV      | KENYAWORTH W900L                    | Space: 20.0m²
+VIN: AQELE      | LCT3000                             | Space: 16.0m²
+VIN: OGAGI      | TOWN BUS                            | Space: 12.0m²
+VIN: HEVEK      | BACALHAU                            | Space: 10.0m²
+VIN: EZELO      | METRO BUS 10.5                      | Space: 10.0m²
+VIN: EXASO      | BD DELUXE                           | Space: 10.0m²
+VIN: UMOSO      | CAMIDO                              | Space: 10.0m²
+VIN: HOFAM      | DUPLATO VAN                         | Space: 10.0m²
+VIN: JUXIC      | FZ50 GTR                            | Space: 9.0m²
+VIN: APENA      | FXO GTR                             | Space: 9.0m²
+VIN: APEDO      | XR GTR                              | Space: 9.0m²
+VIN: RIGEJ      | RB GTR                              | Space: 9.0m²
+VIN: KINOP      | NOMAD GT1                           | Space: 9.0m²
+VIN: LOXUL      | IMPREZZIVE JGT                      | Space: 9.0m²
+VIN: ILOVE      | CAMMERA JGT                         | Space: 9.0m²
+VIN: UMOWI      | DORITO JGT                          | Space: 9.0m²
+VIN: CICUC      | TROENO JGT                          | Space: 9.0m²
+VIN: ZOWAP      | ROADSTER JGT                        | Space: 9.0m²
+VIN: ACTUU      | FZ-E                                | Space: 8.0m²
+VIN: ACUWE      | XR GT TURBO                         | Space: 8.0m²
+VIN: ADCQV      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: BAGAZ      | IMPREZZIVE B2                       | Space: 8.0m²
+VIN: ERADI      | COQUETTE Z5 CONVERTIBLE             | Space: 8.0m²
+VIN: QUPAZ      | CVF2008                             | Space: 8.0m²
+VIN: ETULI      | ELIIN0R                             | Space: 8.0m²
+VIN: BIXEB      | IMPREZZIVE C8                       | Space: 8.0m²
+VIN: BEWAY      | MEMOLUTION 7                        | Space: 8.0m²
+VIN: EVIZA      | SEDAN                               | Space: 8.0m²
+VIN: AGUDI      | ARTON MASTIN 117                    | Space: 8.0m²
+VIN: RAXIG      | POSCHER CAYNAM 718                  | Space: 8.0m²
+VIN: CUDID      | LAMBARINI                           | Space: 8.0m²
+VIN: ZILES      | GT-V34 MINE9                        | Space: 8.0m²
+VIN: USEWE      | SLX180                              | Space: 8.0m²
+VIN: IVIDA      | AM PHOENIX                          | Space: 8.0m²
+VIN: ODOCO      | CAMMERA 730 TURBO                   | Space: 8.0m²
+VIN: UYUFO      | EM30                                | Space: 8.0m²
+VIN: TEZIK      | GOD FOOT                            | Space: 8.0m²
+VIN: ROVIL      | CHALLENGE ST                        | Space: 8.0m²
+VIN: BAQEB      | BD9115                              | Space: 8.0m²
+VIN: ORITU      | COQUETTE F69                        | Space: 8.0m²
+VIN: UGOMA      | BD9115                              | Space: 8.0m²
+VIN: UVORI      | COQUETTE F69                        | Space: 8.0m²
+VIN: KELIR      | BAVARIA A30 N POWER EVO             | Space: 8.0m²
+VIN: VOWAB      | REDHEAD HORSE                       | Space: 8.0m²
+VIN: OPOZU      | SPOTTEDKITTEN COUPE                 | Space: 8.0m²
+VIN: EBEGI      | GENERAL AMERICAN                    | Space: 8.0m²
+VIN: AMAWI      | CHEVIVI CAPRIS                      | Space: 8.0m²
+VIN: OJOYA      | EM-PALA 1967                        | Space: 8.0m²
+VIN: MEZED      | COMET 31                            | Space: 8.0m²
+VIN: NENAD      | BARSTOW MUSCLE IV                   | Space: 8.0m²
+VIN: AKEYE      | PONTACH GT                          | Space: 8.0m²
+VIN: FUSIP      | GT-V32 SC                           | Space: 8.0m²
+VIN: ADCQR      | RACEABOUT                           | Space: 7.0m²
+VIN: ADCQW      | ECO XRG                             | Space: 7.0m²
+VIN: UDEQU      | ECO XRG                             | Space: 7.0m²
+VIN: ACCUR      | LX4                                 | Space: 6.0m²
+VIN: ACMHB      | LX6                                 | Space: 6.0m²
+VIN: ADCQS      | XF GTR                              | Space: 6.0m²
+VIN: ADCQU      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: NUXUG      | LEMON FANTOMAS                      | Space: 6.0m²
+VIN: EHEPA      | LEMON CULTE                         | Space: 6.0m²
+VIN: PONOB      | FAIK TOPO                           | Space: 6.0m²
+VIN: UJORA      | BLACKBIRD                           | Space: 6.0m²
+VIN: GENOP      | CHEBOX                              | Space: 6.0m²
+VIN: CEQEB      | UF GTR                              | Space: 5.0m²
+VIN: YUDOY      | SHARK C                             | Space: 5.0m²
+VIN: MIMOB      | UF 1000                             | Space: 5.0m²
+VIN: ADIZA      | MRT5                                | Space: 4.0m²
+VIN: EZEWE      | VULCAN 998                          | Space: 2.0m²
+VIN: UKAXA      | CHIMERA X1                          | Space: 2.0m²
+VIN: EGANU      | REAPER X1                           | Space: 2.0m²
+VIN: OCOJA      | SZK 1300R                           | Space: 2.0m²
+VIN: QOVUJ      | HYPERION                            | Space: 2.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: khaledalshihry | User ID: 21218 | Total Vehicles: 76
+================================================================================
+Total Garage Space Used: 510.00m²   | 50m² : 11 | 25m²: 21 | 10m²: 51
+
+VIN: OPOXI      | SCAMA 311 B ARQUEADO                | Space: 20.0m²
+VIN: ATUCO      | PIERCING ARROR XT                   | Space: 16.0m²
+VIN: VOKIV      | PIERCING ARROR XT                   | Space: 16.0m²
+VIN: IRUNU      | MC SPLANTER                         | Space: 12.0m²
+VIN: QAHAM      | SCAMA K460                          | Space: 12.0m²
+VIN: DARUS      | BZG SUV                             | Space: 10.0m²
+VIN: AKASO      | CHV SUBAN                           | Space: 10.0m²
+VIN: IWISO      | BZG SUV                             | Space: 10.0m²
+VIN: EWUGO      | FEND 150R                           | Space: 10.0m²
+VIN: CEJUL      | MC KRANKENWAGEN                     | Space: 10.0m²
+VIN: OTACE      | FZ50 GTR                            | Space: 9.0m²
+VIN: ASUZO      | XR GTR                              | Space: 9.0m²
+VIN: ANAQU      | RAC 358                             | Space: 9.0m²
+VIN: VEJIB      | RAC 358                             | Space: 9.0m²
+VIN: ABADY      | XR GT TURBO                         | Space: 8.0m²
+VIN: ABPEW      | FZ-E                                | Space: 8.0m²
+VIN: ACWSY      | FX ELECTRIC                         | Space: 8.0m²
+VIN: CORIB      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: UGOVE      | XR GT TURBO                         | Space: 8.0m²
+VIN: OSEFE      | FZ-E                                | Space: 8.0m²
+VIN: ISEZO      | EMERGENCY CAR                       | Space: 8.0m²
+VIN: OWAXO      | FXO V6 TURBO                        | Space: 8.0m²
+VIN: DELAG      | CVF2008                             | Space: 8.0m²
+VIN: UWOMI      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: DAWIY      | MEMOLUTION 9 QF-400                 | Space: 8.0m²
+VIN: AFOVU      | BUMER 7                             | Space: 8.0m²
+VIN: ZAKAK      | FZ-E                                | Space: 8.0m²
+VIN: BUNAV      | DODGO CHAMENGER RST                 | Space: 8.0m²
+VIN: AXEXO      | LOWSTARS COUPE                      | Space: 8.0m²
+VIN: PIMOX      | FX ELECTRIC                         | Space: 8.0m²
+VIN: UBABE      | ADDA S83 1.8T                       | Space: 8.0m²
+VIN: SONES      | BAVARIA N5                          | Space: 8.0m²
+VIN: XAHAL      | FZ50 TURBO 4                        | Space: 8.0m²
+VIN: POJUV      | XR GT TURBO                         | Space: 8.0m²
+VIN: IMIZA      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: NUKEK      | NAVOZ                               | Space: 8.0m²
+VIN: HUGIS      | FZ-E                                | Space: 8.0m²
+VIN: LEQOL      | LAMBARINI                           | Space: 8.0m²
+VIN: ICAVI      | DODGO CHAMENGER RST                 | Space: 8.0m²
+VIN: CIVEX      | CVF2008                             | Space: 8.0m²
+VIN: AFELA      | CCF2012 DIESEL                      | Space: 8.0m²
+VIN: LACAG      | BAVARIA M20                         | Space: 8.0m²
+VIN: AFAXO      | N.350S                              | Space: 8.0m²
+VIN: EZULE      | DODGO CHAMENGER RST                 | Space: 8.0m²
+VIN: AADZD      | ECO XRG                             | Space: 7.0m²
+VIN: ADKKU      | ECO XRG                             | Space: 7.0m²
+VIN: AVOZI      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: OKALI      | SWIRL SPORT 06                      | Space: 6.0m²
+VIN: TOPOG      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: HIQOZ      | LOPE ASTA                           | Space: 6.0m²
+VIN: YASIG      | BAVARIA 36 SHORT 18                 | Space: 6.0m²
+VIN: VOZAT      | BAVARIA 36 SHORT 18                 | Space: 6.0m²
+VIN: MELUL      | RZ80 J-SPEC                         | Space: 6.0m²
+VIN: AAKTI      | UF 1000                             | Space: 5.0m²
+VIN: EREKO      | UF 1000                             | Space: 5.0m²
+VIN: IBUYI      | UF 1000                             | Space: 5.0m²
+VIN: LEJAZ      | TAAT NANA                           | Space: 5.0m²
+VIN: ZOFAB      | RZM 250                             | Space: 2.0m²
+VIN: ROBEB      | VULCAN 998                          | Space: 2.0m²
+VIN: IRATI      | CHIMERA X1                          | Space: 2.0m²
+VIN: ZACUL      | CHIMERA X1                          | Space: 2.0m²
+VIN: QOSAR      | HBIKE V2                            | Space: 2.0m²
+VIN: QIMIQ      | TSX750                              | Space: 2.0m²
+VIN: ETESA      | REAPER X1                           | Space: 2.0m²
+VIN: OXEYA      | BOX CAR 250                         | Space: 2.0m²
+VIN: QUVIQ      | GUCIMOTO                            | Space: 2.0m²
+VIN: DITES      | SZK 1300R                           | Space: 2.0m²
+VIN: NUCAG      | HYPERION                            | Space: 2.0m²
+VIN: SOTOR      | SZK 400 CLASSIC                     | Space: 2.0m²
+VIN: IVIHI      | TURBO REAPER                        | Space: 2.0m²
+VIN: LUWIJ      | BEECUCLE                            | Space: 1.0m²
+VIN: OTOQU      | BEECUCLE                            | Space: 1.0m²
+VIN: VUYAD      | GX-BUGGY                            | Space: 1.0m²
+VIN: UMADU      | TREX BIKES                          | Space: 1.0m²
+VIN: DOVUV      | IRIDER                              | Space: 1.0m²
+VIN: REPUF      | BEECUCLE                            | Space: 1.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: viktors3232 | User ID: 29964 | Total Vehicles: 74
+================================================================================
+Total Garage Space Used: 464.00m²   | 50m² : 10 | 25m²: 19 | 10m²: 47
+
+VIN: ICIRI      | LINE RUNNER IV                      | Space: 20.0m²
+VIN: EQOPU      | PUSHBACK TUG                        | Space: 20.0m²
+VIN: CIZOM      | LCT3000                             | Space: 16.0m²
+VIN: UYUJE      | TSV8                                | Space: 12.0m²
+VIN: QUPET      | SCAMA K460                          | Space: 12.0m²
+VIN: OJIMA      | IKRAUS_260                          | Space: 10.0m²
+VIN: URESI      | RTS 6-71                            | Space: 10.0m²
+VIN: MEDEM      | GRUZ_1RUNNER                        | Space: 10.0m²
+VIN: IVAPO      | ONIBUS VTR                          | Space: 10.0m²
+VIN: GAFOD      | MECA 371 MONOBLOCO                  | Space: 10.0m²
+VIN: KOQIV      | GG55 AMD                            | Space: 10.0m²
+VIN: JUMUF      | STAR3X                              | Space: 10.0m²
+VIN: ECUXE      | FEND 150R R                         | Space: 10.0m²
+VIN: OGIWU      | VANLIFE                             | Space: 10.0m²
+VIN: AAKHQ      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACDGG      | FZ-E                                | Space: 8.0m²
+VIN: ACEUV      | FX ELECTRIC                         | Space: 8.0m²
+VIN: ACPNZ      | XR GT TURBO                         | Space: 8.0m²
+VIN: UQOBI      | VGI-6 SC                            | Space: 8.0m²
+VIN: UFOKE      | IMPREZZIVE B2                       | Space: 8.0m²
+VIN: KIYAX      | BUMER 7                             | Space: 8.0m²
+VIN: XODUV      | SILLY13                             | Space: 8.0m²
+VIN: OLISA      | GT-V32 LT                           | Space: 8.0m²
+VIN: TICAM      | NAVOZ                               | Space: 8.0m²
+VIN: UFADE      | ADDA S83 1.8T                       | Space: 8.0m²
+VIN: OYASI      | AHMED 4.0RS                         | Space: 8.0m²
+VIN: UKIHO      | DODGO CHAMENGER RST                 | Space: 8.0m²
+VIN: LUKAP      | BZ30 ROADSTER SPORT                 | Space: 8.0m²
+VIN: WAVAY      | CVF2008                             | Space: 8.0m²
+VIN: AFUTO      | ECO XRG                             | Space: 7.0m²
+VIN: EWAMA      | LEMON ARA COUPE                     | Space: 7.0m²
+VIN: ACFSL      | LX6                                 | Space: 6.0m²
+VIN: TIJUR      | UF DIESEL TRUCK                     | Space: 6.0m²
+VIN: OFAVO      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: QUSEB      | BAVARIA_A30TD                       | Space: 6.0m²
+VIN: QUPAR      | BLACKBIRD                           | Space: 6.0m²
+VIN: UHETO      | FAIK TOPO                           | Space: 6.0m²
+VIN: VALIH      | PZG COMPACT CITY                    | Space: 6.0m²
+VIN: EXIJA      | LUSTER 1.6 DCI                      | Space: 6.0m²
+VIN: ROZEH      | KEI VAN                             | Space: 6.0m²
+VIN: EPAGI      | LOPE ASTA COMBI                     | Space: 6.0m²
+VIN: HEGOQ      | BAVARIA 36 SHORT 18                 | Space: 6.0m²
+VIN: COVOD      | LEMON CULTE                         | Space: 6.0m²
+VIN: MIPEK      | SKODA FELICIA                       | Space: 6.0m²
+VIN: ZIZAL      | LEMON FANTOMAS                      | Space: 6.0m²
+VIN: ACDDQ      | UF 1000                             | Space: 5.0m²
+VIN: ROXUD      | CITICAR                             | Space: 5.0m²
+VIN: KIXAB      | UZOVKA                              | Space: 5.0m²
+VIN: AXEGE      | REALAINT MK1                        | Space: 5.0m²
+VIN: OVUTO      | SKODA 110 L                         | Space: 5.0m²
+VIN: KARIV      | EMKO                                | Space: 5.0m²
+VIN: PAVIN      | PEEPEE50                            | Space: 4.0m²
+VIN: EWOZO      | MOVVER 3000S                        | Space: 4.0m²
+VIN: UWUQE      | JW 350                              | Space: 2.0m²
+VIN: OGEWU      | SZK 1300R                           | Space: 2.0m²
+VIN: NIZID      | YAHOMA YF 3RR                       | Space: 2.0m²
+VIN: UDUDA      | CHIMERA X1                          | Space: 2.0m²
+VIN: AMIPI      | RZT 370                             | Space: 2.0m²
+VIN: UWACE      | VULCAN 998                          | Space: 2.0m²
+VIN: AKUPO      | TI 125 EXECUTIVE                    | Space: 2.0m²
+VIN: ORESE      | BRABIKE                             | Space: 2.0m²
+VIN: HUDEC      | REAPER X1                           | Space: 2.0m²
+VIN: KEMIJ      | HBIKE V2                            | Space: 2.0m²
+VIN: OYIBA      | XINLIN 150                          | Space: 2.0m²
+VIN: EFEHA      | PADDLEMOSCO                         | Space: 2.0m²
+VIN: IMOCE      | POCKET ROCKET                       | Space: 2.0m²
+VIN: BOXIR      | BOX CAR 250                         | Space: 2.0m²
+VIN: ULOQA      | POCKET XR                           | Space: 2.0m²
+VIN: ONIFE      | YMH125                              | Space: 2.0m²
+VIN: RISUY      | GHOUL 250RR                         | Space: 2.0m²
+VIN: UKEWI      | IRIDER                              | Space: 1.0m²
+VIN: AFERU      | GX-BUGGY                            | Space: 1.0m²
+VIN: ZERAS      | BEECUCLE                            | Space: 1.0m²
+VIN: OFINU      | GX-BUGGY STAGE 2                    | Space: 1.0m²
+
+--- Missing Vehicles ---
+VIN: OJEVE      | VKI6                                | Space: NOT FOUND
+VIN: FUQUP      | AHMED19                             | Space: NOT FOUND
+VIN: SUTAZ      | SOICHIROMSX                         | Space: NOT FOUND
+VIN: UDUNI      | xfgtir~removed                      | Space: NOT FOUND
+VIN: BOTET      | AHMED27                             | Space: NOT FOUND
+VIN: CALOL      | LUXSEDAN                            | Space: NOT FOUND
+VIN: ANUTO      | RCCAR                               | Space: NOT FOUND
+VIN: UJIPE      | BAVARIA-A36                         | Space: NOT FOUND
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: J-- | User ID: 27293 | Total Vehicles: 19
+================================================================================
+Total Garage Space Used: 147.00m²   | 50m² : 3 | 25m²: 6 | 10m²: 15
+
+VIN: YOWIT      | SCAMA 311 B ARQUEADO                | Space: 20.0m²
+VIN: TOJOT      | MC SPLANTER                         | Space: 12.0m²
+VIN: OGEYO      | UF PICKUP TRUCK                     | Space: 10.0m²
+VIN: PIPAR      | FZ50 GTR                            | Space: 9.0m²
+VIN: ACXSN      | 8JFZ SUPERCELESTRAL                 | Space: 8.0m²
+VIN: ACXZR      | FX ELECTRIC                         | Space: 8.0m²
+VIN: KIQEY      | FZ-E                                | Space: 8.0m²
+VIN: BOCEG      | XR GT TURBO                         | Space: 8.0m²
+VIN: TUZAY      | DODGO CHARGOR STR                   | Space: 8.0m²
+VIN: WESIN      | BAVARIA N3 M80                      | Space: 8.0m²
+VIN: ACXFR      | ECO XRG                             | Space: 7.0m²
+VIN: ADALY      | RACEABOUT                           | Space: 7.0m²
+VIN: ACXDS      | LX6                                 | Space: 6.0m²
+VIN: ACYFD      | LX4                                 | Space: 6.0m²
+VIN: AFEME      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: ACXHI      | UF 1000                             | Space: 5.0m²
+VIN: ZEPEZ      | SNAIL 1111                          | Space: 5.0m²
+VIN: ADAQF      | MRT5                                | Space: 4.0m²
+VIN: EBORE      | TURBO REAPER                        | Space: 2.0m²
+
+================================================================================
+
+
+************************************************************
+
+LFS Username: whatalife | User ID: 45913 | Total Vehicles: 12
+================================================================================
+Total Garage Space Used: 73.00m²   | 50m² : 2 | 25m²: 3 | 10m²: 8
+
+VIN: SENIK      | MC SPLANTER                         | Space: 12.0m²
+VIN: YODIQ      | GRUZ_1RUNNER                        | Space: 10.0m²
+VIN: LOKUX      | MARIGUS                             | Space: 10.0m²
+VIN: ZERUN      | ROSSA                               | Space: 10.0m²
+VIN: ZEHOT      | BETA 65                             | Space: 7.0m²
+VIN: ABWBK      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: UTUYI      | XF GT DIESEL 1.4                    | Space: 6.0m²
+VIN: FASOH      | UF 1000                             | Space: 5.0m²
+VIN: ZACAR      | SZK 400 CLASSIC                     | Space: 2.0m²
+VIN: VEJEG      | SZK 900 LIGHTBAR                    | Space: 2.0m²
+VIN: LOQIQ      | SZK 900 LIGHTBAR                    | Space: 2.0m²
+VIN: FAROJ      | TREX BIKES                          | Space: 1.0m²
+
+================================================================================
+
+
