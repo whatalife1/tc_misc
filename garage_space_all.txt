@@ -1109,13 +1109,14 @@ VIN: OFAGA      | BAVARIA-46-WAGON-319D               | Space: NOT FOUND
 
 ************************************************************
 
-LFS Username: xtremesp33d | User ID: 34216 | Total Vehicles: 250
+LFS Username: xtremesp33d | User ID: 34216 | Total Vehicles: 252
 ================================================================================
-Total Garage Space Used: 1666.00m²   | 50m² : 34 | 25m²: 67 | 10m²: 167
+Total Garage Space Used: 1677.00m²   | 50m² : 34 | 25m²: 68 | 10m²: 168
 
 VIN: JIROR      | SCAMA K460                          | Space: 12.0m²
 VIN: RUGEF      | CITY VAN 2500                       | Space: 10.0m²
 VIN: GONEQ      | BACALHAU                            | Space: 10.0m²
+VIN: AZASO      | UF PICKUP TRUCK                     | Space: 10.0m²
 VIN: WAVOQ      | AUDDA R7                            | Space: 10.0m²
 VIN: OQEFI      | CHV SUBAN                           | Space: 10.0m²
 VIN: REHET      | CHV SUBAN                           | Space: 10.0m²
@@ -1176,7 +1177,6 @@ VIN: FAYEP      | GT-V34 MINE9                        | Space: 8.0m²
 VIN: ODADU      | MEMOLUTION 7                        | Space: 8.0m²
 VIN: EWATA      | TEGRA R DC12                        | Space: 8.0m²
 VIN: MUTUG      | SVT MINIMOUSECAR                    | Space: 8.0m²
-VIN: IFUCA      | GT-E34                              | Space: 8.0m²
 VIN: AGAXE      | GT-V35                              | Space: 8.0m²
 VIN: XAQAY      | BOLKSWAGON B8 BITDI 2.0             | Space: 8.0m²
 VIN: PEXUG      | SHBABY 150 SPORT                    | Space: 8.0m²
@@ -1268,6 +1268,7 @@ VIN: ETUJA      | KINDAI V20                          | Space: 8.0m²
 VIN: UQAFA      | BAVARIA MM8                         | Space: 8.0m²
 VIN: IHUJU      | BAVARIA N5 V10                      | Space: 8.0m²
 VIN: EWISU      | ADDA 3S SEDAN                       | Space: 8.0m²
+VIN: CESOM      | ADDA 5S SEDAN                       | Space: 8.0m²
 VIN: ACXQN      | ECO XRG                             | Space: 7.0m²
 VIN: ACZZD      | RACEABOUT                           | Space: 7.0m²
 VIN: ADHKY      | RACEABOUT                           | Space: 7.0m²
@@ -1303,7 +1304,6 @@ VIN: QOPOJ      | JPN GOLR 1.4                        | Space: 6.0m²
 VIN: UXAGO      | TRACTOR                             | Space: 6.0m²
 VIN: BIMEZ      | FK-9                                | Space: 6.0m²
 VIN: REVEZ      | FK-9                                | Space: 6.0m²
-VIN: DIGIV      | XR11 GT 1.6                         | Space: 6.0m²
 VIN: AFUQO      | FEND BB                             | Space: 6.0m²
 VIN: HUHIY      | FEND BR                             | Space: 6.0m²
 VIN: GETEJ      | CMD TIMER                           | Space: 6.0m²
@@ -1318,6 +1318,7 @@ VIN: BIZIC      | CHORUS ATTENDANZE XT-Z 4R           | Space: 5.0m²
 VIN: WEPIT      | BLT SUIRP                           | Space: 5.0m²
 VIN: KUBIJ      | LEMON FRIENDS                       | Space: 5.0m²
 VIN: YAQID      | PZG GTR                             | Space: 5.0m²
+VIN: OHIJA      | RELUANT WINGOO                      | Space: 5.0m²
 VIN: TIPUR      | BEACH BUGGY                         | Space: 5.0m²
 VIN: ABFVT      | MRT5                                | Space: 4.0m²
 VIN: ADCIM      | MRT5                                | Space: 4.0m²
@@ -1358,6 +1359,7 @@ VIN: DIKUQ      | SZK 900F CLASSIC                    | Space: 2.0m²
 VIN: XIYAQ      | KASAWAKI ZR6-X                      | Space: 2.0m²
 VIN: ERORI      | CADUTI ANIGALE V4                   | Space: 2.0m²
 VIN: OTUQE      | RONG RR                             | Space: 2.0m²
+VIN: XUPUN      | HORDA RBC1000RR BIREFLADE           | Space: 2.0m²
 VIN: AZOSI      | BEECUCLE                            | Space: 1.0m²
 VIN: ORIWI      | IRIDER                              | Space: 1.0m²
 VIN: YOFAK      | GX-BUGGY                            | Space: 1.0m²
@@ -1647,9 +1649,9 @@ VIN: RALER      | VULCAN 998                          | Space: 2.0m²
 
 ************************************************************
 
-LFS Username: vercetti87 | User ID: 24338 | Total Vehicles: 104
+LFS Username: vercetti87 | User ID: 24338 | Total Vehicles: 109
 ================================================================================
-Total Garage Space Used: 581.00m²   | 50m² : 12 | 25m²: 24 | 10m²: 59
+Total Garage Space Used: 607.00m²   | 50m² : 13 | 25m²: 25 | 10m²: 61
 
 VIN: OWURE      | LINE RUNNER IV                      | Space: 20.0m²
 VIN: LAZIJ      | SCAMA 311 B ARQUEADO                | Space: 20.0m²
@@ -1694,6 +1696,7 @@ VIN: QAFUD      | PZG COMPACT CITY                    | Space: 6.0m²
 VIN: UCOSE      | LOPE ASTA COMBI                     | Space: 6.0m²
 VIN: UXIDU      | LEMON CULTE                         | Space: 6.0m²
 VIN: OQEFU      | SKODA FELICIA                       | Space: 6.0m²
+VIN: OSAGU      | RELUANT 5                           | Space: 6.0m²
 VIN: ADKMN      | UF GTR                              | Space: 5.0m²
 VIN: ETILI      | UF 1000                             | Space: 5.0m²
 VIN: WUNIJ      | SNAIL 1111                          | Space: 5.0m²
@@ -1716,6 +1719,10 @@ VIN: NULEN      | HUBA 4X                             | Space: 5.0m²
 VIN: OJOZE      | RELUANT WINGOO                      | Space: 5.0m²
 VIN: RUSOP      | HADIMRSKA SPORT                     | Space: 5.0m²
 VIN: JOJOZ      | BEACH BUGGY                         | Space: 5.0m²
+VIN: YEYUD      | CHICLETTE_1.6S                      | Space: 5.0m²
+VIN: ESISO      | WATBRUG 353                         | Space: 5.0m²
+VIN: GIKUH      | GORB 65                             | Space: 5.0m²
+VIN: SOLIG      | LADRA 1012                          | Space: 5.0m²
 VIN: ACWRM      | MRT5                                | Space: 4.0m²
 VIN: UREJO      | GOLF CART 200E                      | Space: 4.0m²
 VIN: OJUBE      | PEEPEE50                            | Space: 4.0m²
@@ -1754,7 +1761,7 @@ VIN: OKASU      | GX-BUGGY                            | Space: 1.0m²
 VIN: AMOSU      | GX-BUGGY STAGE R                    | Space: 1.0m²
 VIN: TILIS      | GX-BUGGY STAGE 2                    | Space: 1.0m²
 VIN: ONIFI      | BEECUCLE                            | Space: 1.0m²
-VIN: UZUWE      | TREX BIKES                          | Space: 1.0m²
+VIN: AHEQA      | TREX BIKES                          | Space: 1.0m²
 
 ================================================================================
 
@@ -2155,9 +2162,9 @@ VIN: EBORE      | TURBO REAPER                        | Space: 2.0m²
 
 ************************************************************
 
-LFS Username: whatalife | User ID: 45913 | Total Vehicles: 12
+LFS Username: whatalife | User ID: 45913 | Total Vehicles: 13
 ================================================================================
-Total Garage Space Used: 73.00m²   | 50m² : 2 | 25m²: 3 | 10m²: 8
+Total Garage Space Used: 75.00m²   | 50m² : 2 | 25m²: 3 | 10m²: 8
 
 VIN: SENIK      | MC SPLANTER                         | Space: 12.0m²
 VIN: YODIQ      | GRUZ_1RUNNER                        | Space: 10.0m²
@@ -2168,6 +2175,7 @@ VIN: ABWBK      | XF GT DIESEL 1.4                    | Space: 6.0m²
 VIN: UTUYI      | XF GT DIESEL 1.4                    | Space: 6.0m²
 VIN: FASOH      | UF 1000                             | Space: 5.0m²
 VIN: ZACAR      | SZK 400 CLASSIC                     | Space: 2.0m²
+VIN: UNUVU      | HYPERION                            | Space: 2.0m²
 VIN: VEJEG      | SZK 900 LIGHTBAR                    | Space: 2.0m²
 VIN: LOQIQ      | SZK 900 LIGHTBAR                    | Space: 2.0m²
 VIN: FAROJ      | TREX BIKES                          | Space: 1.0m²
